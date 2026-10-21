@@ -18,7 +18,7 @@
   "doigtes": {},
   "reglages": {
     "transposition": 0,
-    "tempo": 100,
+    "tempo": 85,
     "mains": "deux",
     "niveaux": {
       "droite": 2,
@@ -318,5 +318,5 @@
   },
   "challenge": {},
   "historique": [],
-  "modifieLe": 1792618029812
+  "modifieLe": 1792618062677
 }
