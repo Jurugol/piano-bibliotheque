@@ -1,0 +1,27 @@
+{
+  "id": "0fed0119-d533-4a14-92f5-7b95a095d285",
+  "titre": "Sunburn",
+  "artiste": "arr. Chris McGARRY",
+  "quintes": 0,
+  "source": {
+    "nom": "sunburn-muse-piano-voice.mxl",
+    "type": "musicxml",
+    "empreinte": "ba0538dbd12de6830268bbfb0937cf84dfd3648523fc69edafe92087d9c22b93"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792596187171,
+  "modifieLe": 1792596187171
+}
