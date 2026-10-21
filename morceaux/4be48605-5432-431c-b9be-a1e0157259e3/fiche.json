@@ -21,7 +21,7 @@
     "transposition": 0,
     "tempo": 100,
     "mains": "deux",
-    "mode": "libre",
+    "mode": "attendre",
     "niveaux": {
       "droite": 2,
       "gauche": 4
@@ -31,5 +31,5 @@
     "niveauAccompagnement": 2
   },
   "creeLe": 1792595869613,
-  "modifieLe": 1792617477013
+  "modifieLe": 1792617494364
 }
