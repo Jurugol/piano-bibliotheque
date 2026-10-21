@@ -19,7 +19,7 @@
   "doigtes": {},
   "reglages": {
     "transposition": 0,
-    "tempo": 50,
+    "tempo": 100,
     "mains": "deux",
     "mode": "libre",
     "niveaux": {
@@ -31,5 +31,5 @@
     "niveauAccompagnement": 2
   },
   "creeLe": 1792595869613,
-  "modifieLe": 1792617434453
+  "modifieLe": 1792617477013
 }
