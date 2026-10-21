@@ -1,0 +1,26 @@
+{
+  "id": "25868ede-9d2b-4aa1-96f5-006cea282ece",
+  "titre": "Starlight",
+  "artiste": "Muse",
+  "quintes": 5,
+  "source": {
+    "nom": "starlight-muse.mxl",
+    "type": "musicxml",
+    "empreinte": "c527c52d674ec10cc04f5beb8e1cdd58da21564200407ed1b4d366520ef9cbb5"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792595877636,
+  "modifieLe": 1792595877636
+}
