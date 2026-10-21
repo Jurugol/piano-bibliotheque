@@ -1,0 +1,27 @@
+{
+  "id": "499950b8-1457-415c-a81a-89dec9295608",
+  "titre": "The scientist",
+  "artiste": "Coldplay",
+  "quintes": 1,
+  "source": {
+    "nom": "the-scientist.mxl",
+    "type": "musicxml",
+    "empreinte": "dcf9b30e3f8ddbfa514f6070d14193ed76ce63772930b27f3b9382b3966fafaa"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792591396530,
+  "modifieLe": 1792591396530
+}
