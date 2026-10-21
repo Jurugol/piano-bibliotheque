@@ -28,7 +28,7 @@
     "niveauAccompagnement": 2,
     "difficulte": "debutant1",
     "garderChant": false,
-    "mode": "libre"
+    "mode": "attendre"
   },
   "creeLe": 1792549105092,
   "chantMarque": [
@@ -318,5 +318,5 @@
   },
   "challenge": {},
   "historique": [],
-  "modifieLe": 1792617959649
+  "modifieLe": 1792618029812
 }
