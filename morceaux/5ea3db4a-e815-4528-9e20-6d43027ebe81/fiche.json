@@ -20,8 +20,9 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "deux"
+    "mains": "deux",
+    "mode": "attendre"
   },
   "creeLe": 1792596179155,
-  "modifieLe": 1792596179155
+  "modifieLe": 1792596345795
 }
