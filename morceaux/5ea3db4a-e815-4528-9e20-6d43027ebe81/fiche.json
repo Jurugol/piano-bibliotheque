@@ -26,7 +26,7 @@
       "droite": 2,
       "gauche": 4
     },
-    "version": "morceau",
+    "version": "sansVoix",
     "niveauAccompagnement": 2,
     "difficulte": "intermediaire"
   },
@@ -44,5 +44,5 @@
       60
     ]
   },
-  "modifieLe": 1792597137785
+  "modifieLe": 1792597291997
 }
