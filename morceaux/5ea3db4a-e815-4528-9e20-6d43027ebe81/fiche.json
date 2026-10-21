@@ -22,9 +22,15 @@
     "tempo": 100,
     "mains": "deux",
     "mode": "attendre",
-    "version": "morceau"
+    "niveaux": {
+      "droite": 2,
+      "gauche": 4
+    },
+    "version": "morceau",
+    "niveauAccompagnement": 2,
+    "difficulte": "debutant"
   },
   "creeLe": 1792596179155,
   "historique": [],
-  "modifieLe": 1792596609071
+  "modifieLe": 1792596821465
 }
