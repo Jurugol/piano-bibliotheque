@@ -1,0 +1,30 @@
+{
+  "id": "f994d34d-3036-46ab-9363-e154e3a80a1d",
+  "titre": "Bad Day",
+  "artiste": "Daniel Powter",
+  "quintes": -3,
+  "source": {
+    "nom": "bad-day-daniel-powter.mxl",
+    "type": "musicxml",
+    "empreinte": "308cac8d0f6c106d2488f7747327e6e969e0642d4497fbf343a0e359b3eb4d8c"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "ignorer",
+      "P2/2": "ignorer",
+      "P3/1": "ignorer",
+      "P3/2": "droite",
+      "P3/3": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792595861993,
+  "modifieLe": 1792595861993
+}
