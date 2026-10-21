@@ -26,7 +26,7 @@
     },
     "version": "morceau",
     "niveauAccompagnement": 2,
-    "difficulte": "debutant3",
+    "difficulte": "debutant1",
     "garderChant": false,
     "mode": "libre"
   },
@@ -318,5 +318,5 @@
   },
   "challenge": {},
   "historique": [],
-  "modifieLe": 1792617953634
+  "modifieLe": 1792617959649
 }
