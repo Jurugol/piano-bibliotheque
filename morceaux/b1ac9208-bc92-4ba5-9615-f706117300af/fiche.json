@@ -1,0 +1,26 @@
+{
+  "id": "b1ac9208-bc92-4ba5-9615-f706117300af",
+  "titre": "Sky Full of Stars",
+  "artiste": "Coldplay",
+  "quintes": -6,
+  "source": {
+    "nom": "coldplay-sky-full-of-stars.mxl",
+    "type": "musicxml",
+    "empreinte": "f558574b9ad2822d768e400f1e749dc04fa7ddf11ccccba74cfc8d06e775edde"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792591423686,
+  "modifieLe": 1792591423686
+}
