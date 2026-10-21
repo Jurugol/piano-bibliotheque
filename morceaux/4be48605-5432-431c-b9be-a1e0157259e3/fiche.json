@@ -1,0 +1,27 @@
+{
+  "id": "4be48605-5432-431c-b9be-a1e0157259e3",
+  "titre": "Clocks",
+  "artiste": "Words and Music by Guy  Berryman, Jon Buckland, Will Champion, and Chris Martin",
+  "quintes": -4,
+  "source": {
+    "nom": "clocks-coldplay.mxl",
+    "type": "musicxml",
+    "empreinte": "899e12c8419cc18d308223955896a1d9358403a314b70ba055fedce6aeb1a754"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792595869613,
+  "modifieLe": 1792595869613
+}
