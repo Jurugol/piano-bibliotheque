@@ -1,0 +1,27 @@
+{
+  "id": "5ea3db4a-e815-4528-9e20-6d43027ebe81",
+  "titre": "Everything In It's Right Place",
+  "artiste": "Radiohead",
+  "quintes": 0,
+  "source": {
+    "nom": "everything-in-its-right-place-radiohead-everything-in-its-right-place-radiohead.mxl",
+    "type": "musicxml",
+    "empreinte": "82221eaf1b4a26fe85b42271a149f40cc6af04b35460225035fd5179a7c8538a"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "gauche",
+      "P2/1": "droite",
+      "P3/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792596179155,
+  "modifieLe": 1792596179155
+}
