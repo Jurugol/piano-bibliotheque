@@ -25,13 +25,7 @@
     "difficulte": "intermediaire"
   },
   "creeLe": 1792596187171,
-  "apprentissage": {
-    "1-5@intermediaire": {
-      "etape": 4,
-      "phase": "tempo",
-      "niveau": 4
-    }
-  },
+  "apprentissage": {},
   "revisions": {
     "1-5@intermediaire": {
       "nom": "Partie 1 1–5 · Intermédiaire",
@@ -40,9 +34,9 @@
         "fin": 4
       },
       "difficulte": "intermediaire",
-      "palier": 0,
-      "prochaine": 1792718384650
+      "palier": 1,
+      "prochaine": 1792891885303
     }
   },
-  "modifieLe": 1792632670552
+  "modifieLe": 1792632685305
 }
