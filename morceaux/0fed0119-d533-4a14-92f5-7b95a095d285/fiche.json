@@ -27,9 +27,9 @@
   "creeLe": 1792596187171,
   "apprentissage": {
     "1-5@intermediaire": {
-      "etape": 2,
+      "etape": 3,
       "phase": "tempo",
-      "niveau": 4
+      "niveau": 0
     }
   },
   "revisions": {
@@ -44,5 +44,5 @@
       "prochaine": 1792718384650
     }
   },
-  "modifieLe": 1792632551674
+  "modifieLe": 1792632567838
 }
