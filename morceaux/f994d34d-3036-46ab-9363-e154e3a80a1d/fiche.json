@@ -24,8 +24,15 @@
     "transposition": 0,
     "tempo": 100,
     "mains": "deux",
-    "mode": "attendre"
+    "mode": "attendre",
+    "niveaux": {
+      "droite": 2,
+      "gauche": 4
+    },
+    "version": "morceau",
+    "difficulte": "debutant3",
+    "garderChant": false
   },
   "creeLe": 1792595861993,
-  "modifieLe": 1792627747476
+  "modifieLe": 1792627913020
 }
