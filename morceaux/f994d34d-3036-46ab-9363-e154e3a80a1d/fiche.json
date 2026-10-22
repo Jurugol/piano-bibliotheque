@@ -22,7 +22,7 @@
   "doigtes": {},
   "reglages": {
     "transposition": 0,
-    "tempo": 100,
+    "tempo": 65,
     "mains": "deux",
     "mode": "attendre",
     "niveaux": {
@@ -34,5 +34,5 @@
     "garderChant": false
   },
   "creeLe": 1792595861993,
-  "modifieLe": 1792627913020
+  "modifieLe": 1792627923526
 }
