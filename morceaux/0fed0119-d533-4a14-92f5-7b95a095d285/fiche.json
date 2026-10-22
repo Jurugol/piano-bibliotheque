@@ -20,8 +20,10 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "deux"
+    "mains": "deux",
+    "mode": "apprendre",
+    "difficulte": "intermediaire"
   },
   "creeLe": 1792596187171,
-  "modifieLe": 1792596215007
+  "modifieLe": 1792631368307
 }
