@@ -18,7 +18,73 @@
       "P3/3": "gauche"
     }
   },
-  "sections": [],
+  "sections": [
+    {
+      "nom": "Couplet",
+      "debut": 8,
+      "fin": 19
+    },
+    {
+      "nom": "Couplet",
+      "debut": 20,
+      "fin": 27
+    },
+    {
+      "nom": "Couplet",
+      "debut": 28,
+      "fin": 35
+    },
+    {
+      "nom": "Refrain",
+      "debut": 36,
+      "fin": 43
+    },
+    {
+      "nom": "Refrain",
+      "debut": 44,
+      "fin": 57
+    },
+    {
+      "nom": "Couplet",
+      "debut": 58,
+      "fin": 65
+    },
+    {
+      "nom": "Refrain",
+      "debut": 66,
+      "fin": 73
+    },
+    {
+      "nom": "Refrain",
+      "debut": 74,
+      "fin": 81
+    },
+    {
+      "nom": "Couplet",
+      "debut": 82,
+      "fin": 93
+    },
+    {
+      "nom": "Couplet",
+      "debut": 94,
+      "fin": 101
+    },
+    {
+      "nom": "Refrain",
+      "debut": 102,
+      "fin": 109
+    },
+    {
+      "nom": "Couplet",
+      "debut": 110,
+      "fin": 123
+    },
+    {
+      "nom": "Outro",
+      "debut": 124,
+      "fin": 132
+    }
+  ],
   "doigtes": {},
   "reglages": {
     "transposition": 0,
@@ -34,5 +100,5 @@
     "garderChant": false
   },
   "creeLe": 1792595861993,
-  "modifieLe": 1792628028081
+  "modifieLe": 1792628363772
 }
