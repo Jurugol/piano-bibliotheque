@@ -28,7 +28,7 @@
   "apprentissage": {
     "1-5@intermediaire": {
       "etape": 1,
-      "phase": "decouverte",
+      "phase": "tempo",
       "niveau": 0
     }
   },
@@ -44,5 +44,5 @@
       "prochaine": 1792718384650
     }
   },
-  "modifieLe": 1792632391855
+  "modifieLe": 1792632398604
 }
