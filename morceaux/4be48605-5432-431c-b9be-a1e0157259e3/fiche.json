@@ -31,5 +31,12 @@
     "niveauAccompagnement": 2
   },
   "creeLe": 1792595869613,
-  "modifieLe": 1792718316087
+  "apprentissage": {
+    "1-8@intermediaire": {
+      "etape": 0,
+      "phase": "mains",
+      "niveau": 0
+    }
+  },
+  "modifieLe": 1792718354051
 }
