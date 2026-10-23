@@ -21,15 +21,15 @@
     "transposition": 0,
     "tempo": 100,
     "mains": "deux",
-    "mode": "attendre",
+    "mode": "apprendre",
     "niveaux": {
       "droite": 2,
       "gauche": 4
     },
     "version": "morceau",
-    "difficulte": "debutant",
+    "difficulte": "intermediaire",
     "niveauAccompagnement": 2
   },
   "creeLe": 1792595869613,
-  "modifieLe": 1792617494364
+  "modifieLe": 1792718316087
 }
