@@ -20,7 +20,7 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "droite",
+    "mains": "gauche",
     "mode": "apprendre",
     "niveaux": {
       "droite": 2,
@@ -49,11 +49,11 @@
     },
     "1-8@intermediaire|tout|indications": {
       "meilleur": 0.9692307692307692,
-      "essais": 2
+      "essais": 3
     }
   },
   "sectionsPretes": [
     "1-8@intermediaire"
   ],
-  "modifieLe": 1792721130282
+  "modifieLe": 1792721148896
 }
