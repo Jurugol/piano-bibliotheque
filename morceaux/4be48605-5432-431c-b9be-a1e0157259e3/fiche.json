@@ -74,6 +74,10 @@
     "1-8@intermediaire|tout|memoire|gauche": {
       "meilleur": 0.92,
       "essais": 3
+    },
+    "1-8@intermediaire|tout|dechiffrer-jeu|deux": {
+      "meilleur": 0.890625,
+      "essais": 1
     }
   },
   "sectionsPretes": [
@@ -103,5 +107,5 @@
       "mains": "gauche"
     }
   },
-  "modifieLe": 1792725338637
+  "modifieLe": 1792725411408
 }
