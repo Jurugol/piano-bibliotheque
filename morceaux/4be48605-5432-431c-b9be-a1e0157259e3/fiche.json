@@ -33,10 +33,10 @@
   "creeLe": 1792595869613,
   "apprentissage": {
     "1-8@intermediaire": {
-      "etape": 0,
-      "phase": "mains",
+      "etape": 1,
+      "phase": "ecoute",
       "niveau": 0
     }
   },
-  "modifieLe": 1792718875833
+  "modifieLe": 1792718951363
 }
