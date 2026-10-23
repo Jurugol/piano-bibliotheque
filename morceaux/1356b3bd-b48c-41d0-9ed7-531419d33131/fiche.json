@@ -22,14 +22,14 @@
   "reglages": {
     "transposition": 2,
     "tempo": 100,
-    "mains": "deux",
-    "mode": "edition",
+    "mains": "droite",
+    "mode": "apprendre",
     "niveaux": {
       "droite": 2,
       "gauche": 4
     },
     "version": "morceau",
-    "difficulte": "debutant1",
+    "difficulte": "intermediaire",
     "niveauAccompagnement": 2,
     "garderChant": false
   },
@@ -195,5 +195,5 @@
       "P1/1/469": false
     }
   },
-  "modifieLe": 1792611925882
+  "modifieLe": 1792721991468
 }
