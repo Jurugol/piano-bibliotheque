@@ -72,8 +72,8 @@
       "essais": 2
     },
     "1-8@intermediaire|tout|memoire|gauche": {
-      "meilleur": 0.5142857142857142,
-      "essais": 1
+      "meilleur": 0.7241379310344828,
+      "essais": 2
     }
   },
   "sectionsPretes": [
@@ -92,5 +92,5 @@
       "prochaine": 1792808582735
     }
   },
-  "modifieLe": 1792725253979
+  "modifieLe": 1792725284651
 }
