@@ -20,7 +20,7 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "deux",
+    "mains": "droite",
     "mode": "apprendre",
     "niveaux": {
       "droite": 2,
@@ -34,9 +34,9 @@
   "apprentissage": {
     "1-8@intermediaire": {
       "etape": 0,
-      "phase": "ecoute",
+      "phase": "mains",
       "niveau": 0
     }
   },
-  "modifieLe": 1792718518045
+  "modifieLe": 1792718875833
 }
