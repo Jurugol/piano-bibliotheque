@@ -65,7 +65,7 @@
     },
     "1-8@intermediaire|tout|dechiffrer-jeu|gauche": {
       "meilleur": 1,
-      "essais": 5
+      "essais": 6
     }
   },
   "sectionsPretes": [
@@ -83,5 +83,5 @@
       "prochaine": 1792808582735
     }
   },
-  "modifieLe": 1792724773157
+  "modifieLe": 1792724809064
 }
