@@ -54,10 +54,14 @@
     "1-8@intermediaire|tout|dechiffrer-jeu|droite": {
       "meilleur": 0.953125,
       "essais": 1
+    },
+    "1-8@intermediaire|tout|indications|droite": {
+      "meilleur": 0.8260869565217391,
+      "essais": 1
     }
   },
   "sectionsPretes": [
     "1-8@intermediaire"
   ],
-  "modifieLe": 1792722025566
+  "modifieLe": 1792722077210
 }
