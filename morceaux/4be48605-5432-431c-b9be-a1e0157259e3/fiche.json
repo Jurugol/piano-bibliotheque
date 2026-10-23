@@ -42,7 +42,11 @@
     "1-8@intermediaire|0-0|dechiffrer-jeu": {
       "meilleur": 0.875,
       "essais": 1
+    },
+    "1-8@intermediaire|tout|dechiffrer-jeu": {
+      "meilleur": 0.9375,
+      "essais": 1
     }
   },
-  "modifieLe": 1792720839506
+  "modifieLe": 1792720883487
 }
