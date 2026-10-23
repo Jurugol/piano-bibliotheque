@@ -76,8 +76,8 @@
       "essais": 3
     },
     "1-8@intermediaire|tout|dechiffrer-jeu|deux": {
-      "meilleur": 0.90625,
-      "essais": 3
+      "meilleur": 0.921875,
+      "essais": 4
     }
   },
   "sectionsPretes": [
@@ -107,5 +107,5 @@
       "mains": "gauche"
     }
   },
-  "modifieLe": 1792725556859
+  "modifieLe": 1792725646039
 }
