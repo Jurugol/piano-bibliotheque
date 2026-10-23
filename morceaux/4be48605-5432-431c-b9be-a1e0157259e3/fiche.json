@@ -68,8 +68,8 @@
       "essais": 11
     },
     "1-8@intermediaire|tout|indications|gauche": {
-      "meilleur": 0.6206896551724138,
-      "essais": 1
+      "meilleur": 0.9583333333333334,
+      "essais": 2
     }
   },
   "sectionsPretes": [
@@ -88,5 +88,5 @@
       "prochaine": 1792808582735
     }
   },
-  "modifieLe": 1792725136776
+  "modifieLe": 1792725155584
 }
