@@ -48,12 +48,12 @@
       "essais": 4
     },
     "1-8@intermediaire|tout|indications": {
-      "meilleur": 0.9104477611940298,
-      "essais": 1
+      "meilleur": 0.9692307692307692,
+      "essais": 2
     }
   },
   "sectionsPretes": [
     "1-8@intermediaire"
   ],
-  "modifieLe": 1792721047616
+  "modifieLe": 1792721130282
 }
