@@ -58,10 +58,26 @@
     "1-8@intermediaire|tout|indications|droite": {
       "meilleur": 0.8260869565217391,
       "essais": 1
+    },
+    "1-8@intermediaire|tout|memoire|droite": {
+      "meilleur": 1,
+      "essais": 1
     }
   },
   "sectionsPretes": [
     "1-8@intermediaire"
   ],
-  "modifieLe": 1792722077210
+  "revisions": {
+    "1-8@intermediaire": {
+      "nom": "Intro 1–4 · Intermédiaire",
+      "section": {
+        "debut": 0,
+        "fin": 7
+      },
+      "difficulte": "intermediaire",
+      "palier": 0,
+      "prochaine": 1792808582735
+    }
+  },
+  "modifieLe": 1792722182735
 }
