@@ -69,7 +69,8 @@
     }
   },
   "sectionsPretes": [
-    "1-8@intermediaire"
+    "1-8@intermediaire",
+    "1-8@intermediaire#gauche"
   ],
   "revisions": {
     "1-8@intermediaire": {
@@ -83,5 +84,5 @@
       "prochaine": 1792808582735
     }
   },
-  "modifieLe": 1792725018837
+  "modifieLe": 1792725024896
 }
