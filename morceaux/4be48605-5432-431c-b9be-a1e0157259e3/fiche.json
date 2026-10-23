@@ -72,8 +72,8 @@
       "essais": 2
     },
     "1-8@intermediaire|tout|memoire|gauche": {
-      "meilleur": 0.7241379310344828,
-      "essais": 2
+      "meilleur": 0.92,
+      "essais": 3
     }
   },
   "sectionsPretes": [
@@ -90,7 +90,18 @@
       "difficulte": "intermediaire",
       "palier": 0,
       "prochaine": 1792808582735
+    },
+    "1-8@intermediaire#gauche": {
+      "nom": "Intro 1–4 · main gauche · Intermédiaire",
+      "section": {
+        "debut": 0,
+        "fin": 7
+      },
+      "difficulte": "intermediaire",
+      "palier": 0,
+      "prochaine": 1792811721778,
+      "mains": "gauche"
     }
   },
-  "modifieLe": 1792725284651
+  "modifieLe": 1792725321778
 }
