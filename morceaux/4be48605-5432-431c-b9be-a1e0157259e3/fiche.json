@@ -70,6 +70,10 @@
     "1-8@intermediaire|tout|indications|gauche": {
       "meilleur": 0.9583333333333334,
       "essais": 2
+    },
+    "1-8@intermediaire|tout|memoire|gauche": {
+      "meilleur": 0.5142857142857142,
+      "essais": 1
     }
   },
   "sectionsPretes": [
@@ -88,5 +92,5 @@
       "prochaine": 1792808582735
     }
   },
-  "modifieLe": 1792725155584
+  "modifieLe": 1792725253979
 }
