@@ -62,6 +62,10 @@
     "1-8@intermediaire|tout|memoire|droite": {
       "meilleur": 1,
       "essais": 1
+    },
+    "1-8@intermediaire|tout|dechiffrer-jeu|gauche": {
+      "meilleur": 1,
+      "essais": 1
     }
   },
   "sectionsPretes": [
@@ -79,5 +83,5 @@
       "prochaine": 1792808582735
     }
   },
-  "modifieLe": 1792722196068
+  "modifieLe": 1792724294589
 }
