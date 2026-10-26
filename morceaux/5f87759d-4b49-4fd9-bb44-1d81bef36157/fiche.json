@@ -1,7 +1,7 @@
 {
   "id": "5f87759d-4b49-4fd9-bb44-1d81bef36157",
   "titre": "Always",
-  "artiste": "PETER WENTZ;BRENDON URIE;SPENCER SMITH;JOHN FELDMANN",
+  "artiste": "Panic at the Disco",
   "quintes": 3,
   "source": {
     "nom": "always-peter-wentz.mxl",
@@ -10,7 +10,7 @@
   },
   "affectation": {
     "roles": {
-      "P1/1": "chant",
+      "P1/1": "ignorer",
       "P2/1": "droite",
       "P2/2": "gauche"
     }
@@ -23,5 +23,5 @@
     "mains": "deux"
   },
   "creeLe": 1792983652823,
-  "modifieLe": 1792983652823
+  "modifieLe": 1792983709508
 }
