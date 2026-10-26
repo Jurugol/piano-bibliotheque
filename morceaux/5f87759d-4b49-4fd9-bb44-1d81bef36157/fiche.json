@@ -1,0 +1,27 @@
+{
+  "id": "5f87759d-4b49-4fd9-bb44-1d81bef36157",
+  "titre": "Always",
+  "artiste": "PETER WENTZ;BRENDON URIE;SPENCER SMITH;JOHN FELDMANN",
+  "quintes": 3,
+  "source": {
+    "nom": "always-peter-wentz.mxl",
+    "type": "musicxml",
+    "empreinte": "807dc83743fc2f561acbc43df5a134be32b9d963bc17feb4f4aa4a62f79f078e"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792983652823,
+  "modifieLe": 1792983652823
+}
