@@ -1,0 +1,26 @@
+{
+  "id": "8ded343a-75b6-4d49-afc3-5c48105e11cd",
+  "titre": "With Me",
+  "artiste": "",
+  "quintes": 4,
+  "source": {
+    "nom": "with-me-sum-41.mxl",
+    "type": "musicxml",
+    "empreinte": "5ec1938ec697bd0d02539ec282f7e06ee8e9e904e605bce4c5645951c7b75e13"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792983653738,
+  "modifieLe": 1792983653738
+}
