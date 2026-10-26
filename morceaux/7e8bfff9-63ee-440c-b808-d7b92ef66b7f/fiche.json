@@ -1,0 +1,28 @@
+{
+  "id": "7e8bfff9-63ee-440c-b808-d7b92ef66b7f",
+  "titre": "Bad Habits",
+  "artiste": "",
+  "quintes": 2,
+  "source": {
+    "nom": "bad-habits-ed-sheeran-piano-duo.mxl",
+    "type": "musicxml",
+    "empreinte": "8d5ffa99a6b61cd4c986220bec2b184b1fb314b5615736c150bc63f2991404ac"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche",
+      "P2/1": "ignorer",
+      "P2/2": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792983652946,
+  "modifieLe": 1792983652946
+}
