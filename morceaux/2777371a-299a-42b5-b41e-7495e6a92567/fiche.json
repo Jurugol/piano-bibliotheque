@@ -1,0 +1,27 @@
+{
+  "id": "2777371a-299a-42b5-b41e-7495e6a92567",
+  "titre": "Feel",
+  "artiste": "",
+  "quintes": 2,
+  "source": {
+    "nom": "feel-robbie-williams.mxl",
+    "type": "musicxml",
+    "empreinte": "8de492b07e93b1acb194d7992fef7d362038015fa72aee42c9cf898a417ad1be"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792983653052,
+  "modifieLe": 1792983653052
+}
