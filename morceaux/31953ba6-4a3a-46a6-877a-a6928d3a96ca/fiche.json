@@ -1,0 +1,27 @@
+{
+  "id": "31953ba6-4a3a-46a6-877a-a6928d3a96ca",
+  "titre": "Trouble",
+  "artiste": "",
+  "quintes": 1,
+  "source": {
+    "nom": "trouble-coldplay.mxl",
+    "type": "musicxml",
+    "empreinte": "81db5da4b690fc299aab7ff14c6cb9d13d9a79702bf5c6204e0d577fc77d887f"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792983653515,
+  "modifieLe": 1792983653515
+}
