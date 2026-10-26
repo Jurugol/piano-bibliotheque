@@ -1,0 +1,27 @@
+{
+  "id": "9497a2c3-87b2-437a-aa4c-209ae1f9100d",
+  "titre": "Dying in LA",
+  "artiste": "F.I.R.E.",
+  "quintes": 2,
+  "source": {
+    "nom": "panic-at-the-disco-dying-in-la.mxl",
+    "type": "musicxml",
+    "empreinte": "bcec306c62ad76b118b7fa7724b1c346e297e736c8bf6fd69cd74ce696be2fa1"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792983653276,
+  "modifieLe": 1792983653276
+}
