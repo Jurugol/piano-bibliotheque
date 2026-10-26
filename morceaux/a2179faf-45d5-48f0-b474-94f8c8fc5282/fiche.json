@@ -1,0 +1,27 @@
+{
+  "id": "a2179faf-45d5-48f0-b474-94f8c8fc5282",
+  "titre": "Over my head",
+  "artiste": "The Fray",
+  "quintes": -4,
+  "source": {
+    "nom": "Over_my_head_-_The_Fray_(Piano-Vocal-Guitar) (Audiveris).mxl",
+    "type": "musicxml",
+    "empreinte": "bae9471f19524ba25cbddc142b5811462bf09a19164c504e9c4b0f804f0838e7"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792983653460,
+  "modifieLe": 1792983653460
+}
