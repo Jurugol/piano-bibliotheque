@@ -1,0 +1,34 @@
+{
+  "id": "d4d4395a-b73c-4673-a27d-a6ed52310f51",
+  "titre": "Violet hill coldplay full transcription",
+  "artiste": "",
+  "quintes": 4,
+  "source": {
+    "nom": "violet-hill-coldplay-full-transcription.mxl",
+    "type": "musicxml",
+    "empreinte": "24ec9c3bd819aa369183f854304b8a89d410d36734fd7acba65b1014f9e44a29"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P1/2": "ignorer",
+      "P2/1": "ignorer",
+      "P2/2": "ignorer",
+      "P3/1": "droite",
+      "P3/2": "gauche",
+      "P4/1": "chant",
+      "P5/1": "ignorer",
+      "P6/1": "ignorer",
+      "P7/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792983653607,
+  "modifieLe": 1792983653607
+}
