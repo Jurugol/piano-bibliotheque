@@ -1,0 +1,27 @@
+{
+  "id": "bb1b6176-e8c7-46e4-89d8-a1b7e1eaee1c",
+  "titre": "New Born - Muse",
+  "artiste": "",
+  "quintes": 1,
+  "source": {
+    "nom": "new-born-muse-new-born-muse-piano-intrumental.mxl",
+    "type": "musicxml",
+    "empreinte": "a44ef5c8193a2700380d217a2cd92721b94a47ae854865d41498a35e7d87ecd3"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche",
+      "P2/1": "chant"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792983653130,
+  "modifieLe": 1792983653130
+}
