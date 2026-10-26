@@ -1,0 +1,27 @@
+{
+  "id": "571f51d0-4491-4761-9831-6c9a651a9252",
+  "titre": "Over my head",
+  "artiste": "The Fray",
+  "quintes": -4,
+  "source": {
+    "nom": "Over my head - The Fray (corrigé).mxl",
+    "type": "musicxml",
+    "empreinte": "e88ad6f5e36854effafbefa8fa5c4912ee95f53f32363e895c86403d53ef5532"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1792983653209,
+  "modifieLe": 1792983653209
+}
