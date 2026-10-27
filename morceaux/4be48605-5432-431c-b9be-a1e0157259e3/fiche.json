@@ -47,16 +47,8 @@
       "meilleur": 0.96875,
       "essais": 4
     },
-    "1-8@intermediaire|tout|indications": {
-      "meilleur": 0.9692307692307692,
-      "essais": 3
-    },
     "1-8@intermediaire|tout|dechiffrer-jeu|droite": {
       "meilleur": 0.953125,
-      "essais": 1
-    },
-    "1-8@intermediaire|tout|indications|droite": {
-      "meilleur": 0.8260869565217391,
       "essais": 1
     },
     "1-8@intermediaire|tout|memoire|droite": {
@@ -67,10 +59,6 @@
       "meilleur": 1,
       "essais": 11
     },
-    "1-8@intermediaire|tout|indications|gauche": {
-      "meilleur": 0.9583333333333334,
-      "essais": 2
-    },
     "1-8@intermediaire|tout|memoire|gauche": {
       "meilleur": 0.92,
       "essais": 3
@@ -78,6 +66,18 @@
     "1-8@intermediaire|tout|dechiffrer-jeu|deux": {
       "meilleur": 0.921875,
       "essais": 4
+    },
+    "1-8@intermediaire|tout|dechiffrer-tempo": {
+      "meilleur": 0.9692307692307692,
+      "essais": 3
+    },
+    "1-8@intermediaire|tout|dechiffrer-tempo|droite": {
+      "meilleur": 0.8260869565217391,
+      "essais": 1
+    },
+    "1-8@intermediaire|tout|dechiffrer-tempo|gauche": {
+      "meilleur": 0.9583333333333334,
+      "essais": 2
     }
   },
   "sectionsPretes": [
