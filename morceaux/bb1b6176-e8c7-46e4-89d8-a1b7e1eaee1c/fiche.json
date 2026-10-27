@@ -19,7 +19,7 @@
   "doigtes": {},
   "reglages": {
     "transposition": 0,
-    "tempo": 65,
+    "tempo": 100,
     "mains": "droite",
     "mode": "apprendre",
     "difficulte": "intermediaire",
@@ -51,5 +51,5 @@
   "sectionsPretes": [
     "1-16@intermediaire#gauche"
   ],
-  "modifieLe": 1793073684308
+  "modifieLe": 1793073692116
 }
