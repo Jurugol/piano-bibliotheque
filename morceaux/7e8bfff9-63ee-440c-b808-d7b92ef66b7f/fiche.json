@@ -29,9 +29,9 @@
   "entrainement": {
     "1-8@intermediaire|tout|dechiffrer-jeu|droite": {
       "meilleur": 0.8780487804878049,
-      "essais": 2,
+      "essais": 3,
       "meilleurScore": 2291
     }
   },
-  "modifieLe": 1793066203164
+  "modifieLe": 1793066248331
 }
