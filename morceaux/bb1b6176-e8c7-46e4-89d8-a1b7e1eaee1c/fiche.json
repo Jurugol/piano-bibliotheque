@@ -46,10 +46,28 @@
       "meilleur": 0.7589380982426412,
       "essais": 4,
       "meilleurScore": 592
+    },
+    "1-16@intermediaire|tout|memoire|droite": {
+      "meilleur": 0.9172932330827067,
+      "essais": 1,
+      "meilleurScore": 31680
     }
   },
   "sectionsPretes": [
     "1-16@intermediaire#gauche"
   ],
-  "modifieLe": 1793073692116
+  "revisions": {
+    "1-16@intermediaire#droite": {
+      "nom": "Intro 1–16 · main droite · Intermédiaire",
+      "section": {
+        "debut": 0,
+        "fin": 15
+      },
+      "difficulte": "intermediaire",
+      "palier": 0,
+      "prochaine": 1793160289061,
+      "mains": "droite"
+    }
+  },
+  "modifieLe": 1793073889061
 }
