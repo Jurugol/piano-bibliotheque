@@ -39,12 +39,12 @@
     },
     "1-8@intermediaire|tout|memoire|droite": {
       "meilleur": 0.3114754098360656,
-      "essais": 1,
+      "essais": 2,
       "meilleurScore": 1660
     }
   },
   "sectionsPretes": [
     "1-8@intermediaire#droite"
   ],
-  "modifieLe": 1793066864611
+  "modifieLe": 1793066883794
 }
