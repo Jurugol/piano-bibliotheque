@@ -21,7 +21,7 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "droite",
+    "mains": "gauche",
     "mode": "apprendre",
     "difficulte": "intermediaire"
   },
@@ -38,13 +38,26 @@
       "meilleurScore": 10360
     },
     "1-8@intermediaire|tout|memoire|droite": {
-      "meilleur": 0.3114754098360656,
-      "essais": 2,
-      "meilleurScore": 1660
+      "meilleur": 1,
+      "essais": 3,
+      "meilleurScore": 10360
     }
   },
   "sectionsPretes": [
     "1-8@intermediaire#droite"
   ],
-  "modifieLe": 1793066883794
+  "revisions": {
+    "1-8@intermediaire#droite": {
+      "nom": "Partie 1 1–8 · main droite · Intermédiaire",
+      "section": {
+        "debut": 0,
+        "fin": 7
+      },
+      "difficulte": "intermediaire",
+      "palier": 0,
+      "prochaine": 1793153387323,
+      "mains": "droite"
+    }
+  },
+  "modifieLe": 1793066990980
 }
