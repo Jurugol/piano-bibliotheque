@@ -23,7 +23,7 @@
     "mains": "gauche",
     "mode": "apprendre",
     "difficulte": "intermediaire",
-    "defilement": "libre"
+    "defilement": "jeu"
   },
   "creeLe": 1792983653130,
   "entrainement": {
@@ -38,5 +38,5 @@
       "meilleurScore": 898
     }
   },
-  "modifieLe": 1793072844229
+  "modifieLe": 1793072862462
 }
