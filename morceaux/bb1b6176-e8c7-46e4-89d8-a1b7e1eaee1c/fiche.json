@@ -43,10 +43,10 @@
       "meilleurScore": 11376
     },
     "1-16@intermediaire|tout|dechiffrer-libre|gauche": {
-      "meilleur": 0.23684210526315788,
-      "essais": 1,
-      "meilleurScore": 11
+      "meilleur": 0.5921347616864889,
+      "essais": 2,
+      "meilleurScore": 592
     }
   },
-  "modifieLe": 1793073286982
+  "modifieLe": 1793073441923
 }
