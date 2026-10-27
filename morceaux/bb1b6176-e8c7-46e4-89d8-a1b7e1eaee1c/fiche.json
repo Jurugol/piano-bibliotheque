@@ -48,9 +48,9 @@
       "meilleurScore": 592
     },
     "1-16@intermediaire|tout|memoire|droite": {
-      "meilleur": 0.9172932330827067,
-      "essais": 1,
-      "meilleurScore": 31680
+      "meilleur": 0.9767441860465116,
+      "essais": 2,
+      "meilleurScore": 34740
     }
   },
   "sectionsPretes": [
@@ -69,5 +69,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793073889061
+  "modifieLe": 1793073977618
 }
