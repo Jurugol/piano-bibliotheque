@@ -39,9 +39,9 @@
     },
     "1-16@intermediaire|tout|dechiffrer-jeu|gauche": {
       "meilleur": 0.9051094890510949,
-      "essais": 1,
-      "meilleurScore": 10295
+      "essais": 2,
+      "meilleurScore": 11376
     }
   },
-  "modifieLe": 1793072976455
+  "modifieLe": 1793073264711
 }
