@@ -28,10 +28,10 @@
   "creeLe": 1792983652946,
   "entrainement": {
     "1-8@intermediaire|tout|dechiffrer-jeu|droite": {
-      "meilleur": 0.5609756097560976,
-      "essais": 1,
-      "meilleurScore": 1242
+      "meilleur": 0.8780487804878049,
+      "essais": 2,
+      "meilleurScore": 2291
     }
   },
-  "modifieLe": 1793066151851
+  "modifieLe": 1793066203164
 }
