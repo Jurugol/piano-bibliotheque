@@ -49,7 +49,7 @@
     },
     "1-8@intermediaire|tout|indications|gauche": {
       "meilleur": 0.92,
-      "essais": 3,
+      "essais": 4,
       "meilleurScore": 7360
     }
   },
@@ -70,5 +70,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793067363922
+  "modifieLe": 1793067413730
 }
