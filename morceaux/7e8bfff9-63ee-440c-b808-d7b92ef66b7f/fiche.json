@@ -41,6 +41,11 @@
       "meilleur": 1,
       "essais": 3,
       "meilleurScore": 10360
+    },
+    "1-8@intermediaire|tout|dechiffrer-jeu|gauche": {
+      "meilleur": 0.9166666666666666,
+      "essais": 1,
+      "meilleurScore": 1810
     }
   },
   "sectionsPretes": [
@@ -59,5 +64,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793066990980
+  "modifieLe": 1793067044863
 }
