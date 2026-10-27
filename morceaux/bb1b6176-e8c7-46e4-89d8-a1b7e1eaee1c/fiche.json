@@ -19,7 +19,7 @@
   "doigtes": {},
   "reglages": {
     "transposition": 0,
-    "tempo": 100,
+    "tempo": 65,
     "mains": "gauche",
     "mode": "apprendre",
     "difficulte": "intermediaire",
@@ -48,5 +48,5 @@
       "meilleurScore": 592
     }
   },
-  "modifieLe": 1793073441923
+  "modifieLe": 1793073530040
 }
