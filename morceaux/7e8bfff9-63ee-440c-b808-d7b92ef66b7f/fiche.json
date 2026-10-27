@@ -48,9 +48,9 @@
       "meilleurScore": 2834
     },
     "1-8@intermediaire|tout|indications|gauche": {
-      "meilleur": 0.7962962962962963,
-      "essais": 1,
-      "meilleurScore": 4220
+      "meilleur": 0.8653846153846154,
+      "essais": 2,
+      "meilleurScore": 4260
     }
   },
   "sectionsPretes": [
@@ -70,5 +70,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793067314903
+  "modifieLe": 1793067345970
 }
