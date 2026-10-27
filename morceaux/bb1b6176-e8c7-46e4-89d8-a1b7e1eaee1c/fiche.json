@@ -31,7 +31,12 @@
       "meilleur": 1,
       "essais": 10,
       "meilleurScore": 21273
+    },
+    "1-16@intermediaire|tout|dechiffrer-libre|droite": {
+      "meilleur": 0.7833333333333333,
+      "essais": 1,
+      "meilleurScore": 759
     }
   },
-  "modifieLe": 1793071070587
+  "modifieLe": 1793072013988
 }
