@@ -33,13 +33,13 @@
       "meilleurScore": 3777
     },
     "1-8@intermediaire|tout|indications|droite": {
-      "meilleur": 0.6274509803921569,
-      "essais": 1,
-      "meilleurScore": 5680
+      "meilleur": 0.7446808510638298,
+      "essais": 2,
+      "meilleurScore": 5940
     }
   },
   "sectionsPretes": [
     "1-8@intermediaire#droite"
   ],
-  "modifieLe": 1793066662922
+  "modifieLe": 1793066725015
 }
