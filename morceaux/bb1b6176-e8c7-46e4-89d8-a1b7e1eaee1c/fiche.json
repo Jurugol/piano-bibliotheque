@@ -54,7 +54,8 @@
     }
   },
   "sectionsPretes": [
-    "1-16@intermediaire#gauche"
+    "1-16@intermediaire#gauche",
+    "1-16@intermediaire#droite"
   ],
   "revisions": {
     "1-16@intermediaire#droite": {
@@ -69,5 +70,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793073977618
+  "modifieLe": 1793123132670
 }
