@@ -32,11 +32,6 @@
       "essais": 8,
       "meilleurScore": 3777
     },
-    "1-8@intermediaire|tout|indications|droite": {
-      "meilleur": 1,
-      "essais": 4,
-      "meilleurScore": 10360
-    },
     "1-8@intermediaire|tout|memoire|droite": {
       "meilleur": 1,
       "essais": 3,
@@ -47,15 +42,20 @@
       "essais": 5,
       "meilleurScore": 2834
     },
-    "1-8@intermediaire|tout|indications|gauche": {
-      "meilleur": 0.9791666666666666,
-      "essais": 7,
-      "meilleurScore": 9280
-    },
     "1-8@intermediaire|tout|memoire|gauche": {
       "meilleur": 0.8301886792452831,
       "essais": 2,
       "meilleurScore": 4060
+    },
+    "1-8@intermediaire|tout|dechiffrer-tempo|droite": {
+      "meilleur": 1,
+      "essais": 4,
+      "meilleurScore": 10360
+    },
+    "1-8@intermediaire|tout|dechiffrer-tempo|gauche": {
+      "meilleur": 0.9791666666666666,
+      "essais": 7,
+      "meilleurScore": 9280
     }
   },
   "sectionsPretes": [
