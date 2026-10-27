@@ -20,9 +20,10 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "deux",
+    "mains": "droite",
     "mode": "apprendre",
-    "difficulte": "intermediaire"
+    "difficulte": "intermediaire",
+    "defilement": "libre"
   },
   "creeLe": 1792983653130,
   "entrainement": {
@@ -32,5 +33,5 @@
       "meilleurScore": 21273
     }
   },
-  "modifieLe": 1793071058159
+  "modifieLe": 1793071070587
 }
