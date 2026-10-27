@@ -20,7 +20,7 @@
   "reglages": {
     "transposition": 0,
     "tempo": 65,
-    "mains": "gauche",
+    "mains": "droite",
     "mode": "apprendre",
     "difficulte": "intermediaire",
     "defilement": "libre"
@@ -51,5 +51,5 @@
   "sectionsPretes": [
     "1-16@intermediaire#gauche"
   ],
-  "modifieLe": 1793073656175
+  "modifieLe": 1793073684308
 }
