@@ -20,7 +20,7 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "gauche",
+    "mains": "deux",
     "mode": "apprendre",
     "difficulte": "intermediaire",
     "defilement": "libre"
@@ -44,7 +44,7 @@
     },
     "1-16@intermediaire|tout|dechiffrer-libre|gauche": {
       "meilleur": 0.7589380982426412,
-      "essais": 7,
+      "essais": 8,
       "meilleurScore": 592
     },
     "1-16@intermediaire|tout|memoire|droite": {
@@ -75,5 +75,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793151917113
+  "modifieLe": 1793153324334
 }
