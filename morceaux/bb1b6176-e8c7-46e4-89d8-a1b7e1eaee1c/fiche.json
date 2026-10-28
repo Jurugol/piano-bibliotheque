@@ -23,7 +23,7 @@
     "mains": "deux",
     "mode": "apprendre",
     "difficulte": "intermediaire",
-    "defilement": "libre"
+    "defilement": "jeu"
   },
   "creeLe": 1792983653130,
   "entrainement": {
@@ -75,5 +75,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793153324334
+  "modifieLe": 1793153329750
 }
