@@ -44,7 +44,7 @@
     },
     "1-16@intermediaire|tout|dechiffrer-libre|gauche": {
       "meilleur": 0.7589380982426412,
-      "essais": 6,
+      "essais": 7,
       "meilleurScore": 592
     },
     "1-16@intermediaire|tout|memoire|droite": {
@@ -70,5 +70,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793149340498
+  "modifieLe": 1793149387707
 }
