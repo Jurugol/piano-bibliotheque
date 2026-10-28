@@ -39,7 +39,7 @@
     },
     "1-16@intermediaire|tout|dechiffrer-jeu|gauche": {
       "meilleur": 0.9051094890510949,
-      "essais": 2,
+      "essais": 3,
       "meilleurScore": 11376
     },
     "1-16@intermediaire|tout|dechiffrer-libre|gauche": {
@@ -75,5 +75,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793151847987
+  "modifieLe": 1793151911907
 }
