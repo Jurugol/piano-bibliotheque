@@ -20,7 +20,7 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "deux",
+    "mains": "gauche",
     "mode": "apprendre",
     "difficulte": "intermediaire",
     "defilement": "jeu"
@@ -75,5 +75,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793151055352
+  "modifieLe": 1793151847987
 }
