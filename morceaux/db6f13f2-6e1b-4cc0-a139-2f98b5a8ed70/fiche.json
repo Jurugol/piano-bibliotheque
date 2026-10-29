@@ -1,0 +1,27 @@
+{
+  "id": "db6f13f2-6e1b-4cc0-a139-2f98b5a8ed70",
+  "titre": "Takeshi Abo",
+  "artiste": "GATE OF STEINER MIDI",
+  "quintes": -3,
+  "mode": "majeur",
+  "source": {
+    "nom": "Takeshi Abo - GATE OF STEINER MIDI (Your Piano Tutorials).mid",
+    "type": "midi",
+    "empreinte": "e5ecf2da183ef7a02844c8beea545c619486d1c9941aa97184091d5f0cf0e0dc"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "deux",
+      "P2/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1793241226157,
+  "modifieLe": 1793241226157
+}
