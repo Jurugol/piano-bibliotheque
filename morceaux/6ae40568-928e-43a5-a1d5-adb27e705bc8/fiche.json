@@ -1,0 +1,26 @@
+{
+  "id": "6ae40568-928e-43a5-a1d5-adb27e705bc8",
+  "titre": "Theme of Rewrite",
+  "artiste": "朋夜",
+  "quintes": -3,
+  "source": {
+    "nom": "theme-of-rewrite.mxl",
+    "type": "musicxml",
+    "empreinte": "86bbc3c98e6c8e31fa54b435c1b30356c496e32f08099f4a4e75f2be403b583b"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1793239514035,
+  "modifieLe": 1793239514035
+}
