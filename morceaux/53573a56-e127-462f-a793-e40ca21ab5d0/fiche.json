@@ -19,7 +19,7 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "droite",
+    "mains": "gauche",
     "mode": "apprendre",
     "difficulte": "intermediaire"
   },
@@ -31,10 +31,10 @@
       "meilleurScore": 2413
     },
     "31-38@intermediaire|tout|dechiffrer-jeu|droite": {
-      "meilleur": 0.7391304347826086,
-      "essais": 2,
-      "meilleurScore": 872
+      "meilleur": 1,
+      "essais": 3,
+      "meilleurScore": 1914
     }
   },
-  "modifieLe": 1793243127027
+  "modifieLe": 1793243178731
 }
