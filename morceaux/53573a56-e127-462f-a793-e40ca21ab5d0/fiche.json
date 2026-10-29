@@ -29,7 +29,12 @@
       "meilleur": 1,
       "essais": 2,
       "meilleurScore": 2413
+    },
+    "31-38@intermediaire|tout|dechiffrer-jeu|droite": {
+      "meilleur": 0.6086956521739131,
+      "essais": 1,
+      "meilleurScore": 648
     }
   },
-  "modifieLe": 1793243017646
+  "modifieLe": 1793243063077
 }
