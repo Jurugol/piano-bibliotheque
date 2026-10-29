@@ -1,0 +1,26 @@
+{
+  "id": "1dd82a69-cae1-4b2d-97ce-aaaa421ed30b",
+  "titre": "Gate of Steiner",
+  "artiste": "Takeshi Abo",
+  "quintes": -3,
+  "source": {
+    "nom": "gate-of-steiner-piano-official-sheet-music.mxl",
+    "type": "musicxml",
+    "empreinte": "d8bf5409aa9ebe3ce3ffdefd3decd249f1a050180c384700828678f134dc8e55"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1793239513610,
+  "modifieLe": 1793239513610
+}
