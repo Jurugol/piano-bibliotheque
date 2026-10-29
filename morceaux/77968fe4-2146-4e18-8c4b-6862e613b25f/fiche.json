@@ -1,0 +1,27 @@
+{
+  "id": "77968fe4-2146-4e18-8c4b-6862e613b25f",
+  "titre": "Song for friends",
+  "artiste": "Jun Maeda",
+  "quintes": 2,
+  "source": {
+    "nom": "song-for-friends-jun-maeda.mxl",
+    "type": "musicxml",
+    "empreinte": "100e348ee58106b1fd91278bcc41550b45efd9edc0a86424c8c179a39120d201"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche",
+      "P2/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1793239513922,
+  "modifieLe": 1793239513922
+}
