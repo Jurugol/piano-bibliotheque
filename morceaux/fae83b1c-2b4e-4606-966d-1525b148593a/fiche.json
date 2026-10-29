@@ -1,0 +1,27 @@
+{
+  "id": "fae83b1c-2b4e-4606-966d-1525b148593a",
+  "titre": "Rewrite",
+  "artiste": "Tabi",
+  "quintes": -3,
+  "mode": "majeur",
+  "source": {
+    "nom": "Rewrite - Tabi (basertyu).mid",
+    "type": "midi",
+    "empreinte": "37d4ddb33f99c7ea7375c76c188cacdb86ca8bb2c4e8ef98dccff1125a213be6"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "deux",
+      "P2/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1793239513482,
+  "modifieLe": 1793239513482
+}
