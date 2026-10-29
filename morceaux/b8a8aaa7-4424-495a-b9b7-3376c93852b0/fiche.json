@@ -1,0 +1,27 @@
+{
+  "id": "b8a8aaa7-4424-495a-b9b7-3376c93852b0",
+  "titre": "遥か彼方",
+  "artiste": "Jun Maeda",
+  "quintes": 1,
+  "source": {
+    "nom": "yaoka-bi-fang-jun-maeda-faraway.mxl",
+    "type": "musicxml",
+    "empreinte": "f62b35bd4e2370911ec75c789bf9e14341d3376c8091a75f6de24ba0829ab295"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche",
+      "P2/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1793239785969,
+  "modifieLe": 1793239785969
+}
