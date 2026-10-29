@@ -1,0 +1,26 @@
+{
+  "id": "8efd4ad4-55f4-469e-8589-e74d71f0fafb",
+  "titre": "Saya's song",
+  "artiste": "Jun Maeda",
+  "quintes": 1,
+  "source": {
+    "nom": "sayas-song-jun-maeda.mxl",
+    "type": "musicxml",
+    "empreinte": "c7b296b8c87d3977c0f541d331a239266cdf3b07e7701796b1f479b106e17f03"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1793239513823,
+  "modifieLe": 1793239513823
+}
