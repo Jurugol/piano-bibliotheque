@@ -1,0 +1,26 @@
+{
+  "id": "84ee0a39-6db9-4494-8a94-c013c9122ec3",
+  "titre": "Steinsgate ost believe me",
+  "artiste": "",
+  "quintes": -4,
+  "source": {
+    "nom": "steinsgate-ost-believe-me.mxl",
+    "type": "musicxml",
+    "empreinte": "a8eaec66cdcde3e776ab4a1c9c7fbcf858e0c15f8d9bf558bd3840193dcb2269"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1793239513961,
+  "modifieLe": 1793239513961
+}
