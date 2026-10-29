@@ -19,11 +19,13 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "deux"
+    "mains": "deux",
+    "mode": "apprendre",
+    "difficulte": "intermediaire"
   },
   "creeLe": 1793239513702,
   "sectionsPretes": [],
   "challenge": {},
   "historique": [],
-  "modifieLe": 1793239513702
+  "modifieLe": 1793242101980
 }
