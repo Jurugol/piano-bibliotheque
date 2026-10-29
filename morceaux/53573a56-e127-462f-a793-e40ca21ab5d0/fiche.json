@@ -19,7 +19,7 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "deux",
+    "mains": "droite",
     "mode": "apprendre",
     "difficulte": "intermediaire"
   },
@@ -31,5 +31,5 @@
       "meilleurScore": 2413
     }
   },
-  "modifieLe": 1793242946242
+  "modifieLe": 1793243017646
 }
