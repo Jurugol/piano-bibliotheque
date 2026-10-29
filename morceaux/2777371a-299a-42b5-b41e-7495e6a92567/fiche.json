@@ -32,5 +32,15 @@
       "meilleurScore": 4961
     }
   },
-  "modifieLe": 1793243487159
+  "lecons": {
+    "0-11": {
+      "etapes": {
+        "ecoute": {
+          "le": 1793303860847,
+          "meilleur": 1
+        }
+      }
+    }
+  },
+  "modifieLe": 1793303860847
 }
