@@ -11,8 +11,8 @@
   },
   "affectation": {
     "roles": {
-      "P1/1": "deux",
-      "P2/1": "ignorer"
+      "P1/1": "droite",
+      "P2/1": "gauche"
     }
   },
   "sections": [],
