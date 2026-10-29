@@ -1,0 +1,26 @@
+{
+  "id": "53573a56-e127-462f-a793-e40ca21ab5d0",
+  "titre": "In The Town of Incessant Rain",
+  "artiste": "Manack",
+  "quintes": -4,
+  "source": {
+    "nom": "little-busters-in-the-town-of-incessant-rain.mxl",
+    "type": "musicxml",
+    "empreinte": "fb41d373464a5b16bc0ff2a8acdf28756904edcb007d122b9277813b902610d2"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1793239513737,
+  "modifieLe": 1793239513737
+}
