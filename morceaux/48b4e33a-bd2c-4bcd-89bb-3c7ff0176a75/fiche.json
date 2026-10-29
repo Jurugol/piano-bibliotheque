@@ -1,0 +1,26 @@
+{
+  "id": "48b4e33a-bd2c-4bcd-89bb-3c7ff0176a75",
+  "titre": "Ichiban no Takaramono",
+  "artiste": "Bummel",
+  "quintes": -1,
+  "source": {
+    "nom": "ichiban-no-takaramono-angel-beats-piano.mxl",
+    "type": "musicxml",
+    "empreinte": "d513e42b6631475491293f6eb827bb0215507a993b608dc3bfeafbc293eab71d"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1793239513702,
+  "modifieLe": 1793239513702
+}
