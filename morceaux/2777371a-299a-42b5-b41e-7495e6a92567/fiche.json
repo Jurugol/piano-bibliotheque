@@ -43,10 +43,12 @@
       "vus": {
         "ecoute": 1793323988452,
         "socle": 1793325055719,
-        "pedale@0": 1793325088054
+        "pedale@0": 1793325088054,
+        "chemin@0": 1793412948415
       },
       "idees": [
-        "pedale"
+        "pedale",
+        "chemin"
       ],
       "retouches": {
         "sensible@10": {
@@ -62,5 +64,5 @@
       }
     }
   },
-  "modifieLe": 1793330483965
+  "modifieLe": 1793412948415
 }
