@@ -58,8 +58,8 @@
       "meilleurScore": 14371
     },
     "1-16@intermediaire|tout|dechiffrer-libre|deux": {
-      "meilleur": 0.5256392725906964,
-      "essais": 1,
+      "meilleur": 0.889719842973236,
+      "essais": 2,
       "meilleurScore": 324
     },
     "1-12@intermediaire|tout|dechiffrer-libre|deux": {
@@ -85,5 +85,5 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793413545962
+  "modifieLe": 1793413582610
 }
