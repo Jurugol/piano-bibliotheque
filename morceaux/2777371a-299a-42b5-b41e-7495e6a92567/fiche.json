@@ -31,6 +31,11 @@
       "meilleur": 0.9,
       "essais": 2,
       "meilleurScore": 7748
+    },
+    "1-12@intermediaire|tout|dechiffrer-libre|deux": {
+      "meilleur": 0.6965029040824137,
+      "essais": 1,
+      "meilleurScore": 687
     }
   },
   "lecons": {
@@ -67,5 +72,5 @@
       "comprise": 1793413064596
     }
   },
-  "modifieLe": 1793413362194
+  "modifieLe": 1793413464434
 }
