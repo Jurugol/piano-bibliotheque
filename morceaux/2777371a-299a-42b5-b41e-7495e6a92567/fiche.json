@@ -27,9 +27,9 @@
   "creeLe": 1792983653052,
   "entrainement": {
     "1-12@intermediaire|tout|dechiffrer-jeu|deux": {
-      "meilleur": 0.7714285714285715,
-      "essais": 1,
-      "meilleurScore": 4961
+      "meilleur": 0.9,
+      "essais": 2,
+      "meilleurScore": 7748
     }
   },
   "lecons": {
@@ -66,5 +66,5 @@
       "comprise": 1793413064596
     }
   },
-  "modifieLe": 1793413064597
+  "modifieLe": 1793413331001
 }
