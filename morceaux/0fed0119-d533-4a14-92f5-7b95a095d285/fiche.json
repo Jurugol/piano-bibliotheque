@@ -38,5 +38,12 @@
       "prochaine": 1793239084224
     }
   },
-  "modifieLe": 1792634284226
+  "entrainement": {
+    "1-5@intermediaire|tout|dechiffrer-jeu|deux": {
+      "meilleur": 0.78125,
+      "essais": 1,
+      "meilleurScore": 2743
+    }
+  },
+  "modifieLe": 1794094148714
 }
