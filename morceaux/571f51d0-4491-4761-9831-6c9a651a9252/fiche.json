@@ -10,7 +10,7 @@
   },
   "affectation": {
     "roles": {
-      "P1/1": "chant",
+      "P1/1": "ignorer",
       "P2/1": "droite",
       "P2/2": "gauche"
     }
@@ -23,5 +23,5 @@
     "mains": "deux"
   },
   "creeLe": 1792983653209,
-  "modifieLe": 1792983653209
+  "modifieLe": 1794094890779
 }
