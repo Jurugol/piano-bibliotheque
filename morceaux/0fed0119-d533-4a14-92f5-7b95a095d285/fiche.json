@@ -43,7 +43,12 @@
       "meilleur": 0.78125,
       "essais": 1,
       "meilleurScore": 2743
+    },
+    "6-13@intermediaire|tout|dechiffrer-jeu|deux": {
+      "meilleur": 0.796875,
+      "essais": 1,
+      "meilleurScore": 5129
     }
   },
-  "modifieLe": 1794094148714
+  "modifieLe": 1794094257338
 }
