@@ -34,7 +34,7 @@
     },
     "1-12@intermediaire|tout|dechiffrer-libre|deux": {
       "meilleur": 0.792803174765853,
-      "essais": 2,
+      "essais": 3,
       "meilleurScore": 687
     }
   },
@@ -72,5 +72,5 @@
       "comprise": 1793413064596
     }
   },
-  "modifieLe": 1794092667231
+  "modifieLe": 1794092739442
 }
