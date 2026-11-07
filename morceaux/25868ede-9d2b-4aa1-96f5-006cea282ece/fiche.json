@@ -26,9 +26,9 @@
     },
     "version": "morceau",
     "niveauAccompagnement": 2,
-    "difficulte": "debutant1",
+    "difficulte": "intermediaire",
     "garderChant": false,
-    "mode": "attendre"
+    "mode": "apprendre"
   },
   "creeLe": 1792549105092,
   "chantMarque": [
@@ -318,5 +318,12 @@
   },
   "challenge": {},
   "historique": [],
-  "modifieLe": 1792618062677
+  "entrainement": {
+    "1-12@intermediaire|tout|dechiffrer-libre|deux": {
+      "meilleur": 0,
+      "essais": 0,
+      "meilleurScore": 0
+    }
+  },
+  "modifieLe": 1794093501466
 }
