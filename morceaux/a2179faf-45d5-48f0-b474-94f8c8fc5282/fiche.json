@@ -10,7 +10,7 @@
   },
   "affectation": {
     "roles": {
-      "P1/1": "chant",
+      "P1/1": "ignorer",
       "P2/1": "droite",
       "P2/2": "gauche"
     }
@@ -25,5 +25,5 @@
     "difficulte": "intermediaire"
   },
   "creeLe": 1792983653460,
-  "modifieLe": 1794094553972
+  "modifieLe": 1794094824425
 }
