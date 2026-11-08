@@ -25,5 +25,12 @@
     "difficulte": "intermediaire"
   },
   "creeLe": 1792983653460,
-  "modifieLe": 1794094824425
+  "lecons": {
+    "0-16": {
+      "vus": {
+        "ecoute": 1794100842036
+      }
+    }
+  },
+  "modifieLe": 1794100842036
 }
