@@ -22,7 +22,11 @@
     "tempo": 100,
     "mains": "deux",
     "mode": "apprendre",
-    "difficulte": "intermediaire"
+    "difficulte": "intermediaire",
+    "tonalite": {
+      "tonique": 1,
+      "mode": "ionien"
+    }
   },
   "creeLe": 1792983653460,
   "lecons": {
@@ -38,5 +42,5 @@
       }
     }
   },
-  "modifieLe": 1794100865378
+  "modifieLe": 1794101726587
 }
