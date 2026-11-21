@@ -1,12 +1,12 @@
 {
   "id": "77968fe4-2146-4e18-8c4b-6862e613b25f",
-  "titre": "Song for friends",
-  "artiste": "Jun Maeda",
+  "titre": "Song for Friends",
+  "artiste": "Rita",
   "quintes": 2,
   "source": {
     "nom": "song-for-friends-jun-maeda.mxl",
     "type": "musicxml",
-    "empreinte": "100e348ee58106b1fd91278bcc41550b45efd9edc0a86424c8c179a39120d201"
+    "empreinte": "b7b1e9f87632290e92a4fe87efa7ee74ebf226d28b9a702c1adeed2660373a3b"
   },
   "affectation": {
     "roles": {
@@ -25,5 +25,7 @@
     "difficulte": "intermediaire"
   },
   "creeLe": 1793239513922,
-  "modifieLe": 1793242117211
+  "genre": "OST anime / jeu",
+  "oeuvre": "Little Busters!",
+  "modifieLe": 1795281310481
 }
