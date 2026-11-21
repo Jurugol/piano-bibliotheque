@@ -6,7 +6,7 @@
   "source": {
     "nom": "in-the-end-linkin-park.mxl",
     "type": "musicxml",
-    "empreinte": "0ac1c73422bd9c2c8c612fe1f79c0169a587713b2c0130a23d2f7f03678a45ea"
+    "empreinte": "977637b008c7c9fd3cd557e0e03febb9aeff2bf857a80dc401d9a499332d537c"
   },
   "affectation": {
     "roles": {
@@ -22,5 +22,6 @@
     "mains": "deux"
   },
   "creeLe": 1795279787997,
-  "modifieLe": 1795279787997
+  "genre": "Rock alternatif",
+  "modifieLe": 1795281309184
 }
