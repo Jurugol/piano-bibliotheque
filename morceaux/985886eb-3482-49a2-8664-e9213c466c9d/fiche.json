@@ -1,0 +1,26 @@
+{
+  "id": "985886eb-3482-49a2-8664-e9213c466c9d",
+  "titre": "Stop Crying Your Heart Out",
+  "artiste": "Oasis",
+  "quintes": 2,
+  "source": {
+    "nom": "stop-crying-your-heart-out-oasis.mxl",
+    "type": "musicxml",
+    "empreinte": "f86155df684ebd75e684d7af03aa61f8183149fbc46bf9b5e91b9987aa1dabe3"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795278670116,
+  "modifieLe": 1795278670116
+}
