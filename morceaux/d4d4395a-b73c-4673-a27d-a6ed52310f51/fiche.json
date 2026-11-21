@@ -1,12 +1,12 @@
 {
   "id": "d4d4395a-b73c-4673-a27d-a6ed52310f51",
-  "titre": "Violet hill coldplay full transcription",
-  "artiste": "",
+  "titre": "Violet Hill",
+  "artiste": "Coldplay",
   "quintes": 4,
   "source": {
     "nom": "violet-hill-coldplay-full-transcription.mxl",
     "type": "musicxml",
-    "empreinte": "24ec9c3bd819aa369183f854304b8a89d410d36734fd7acba65b1014f9e44a29"
+    "empreinte": "076f355b83a6c5b75cca131da175087680eda8692b9f6a2839725c4e1e3a9d6a"
   },
   "affectation": {
     "roles": {
@@ -30,5 +30,6 @@
     "mains": "deux"
   },
   "creeLe": 1792983653607,
-  "modifieLe": 1792983653607
+  "genre": "Rock alternatif",
+  "modifieLe": 1795281311291
 }
