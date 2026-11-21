@@ -1,12 +1,12 @@
 {
   "id": "2ab472af-2a5f-47b1-a11f-14b52b167fd2",
   "titre": "Nine in the Afternoon",
-  "artiste": "Panic at the Disco",
+  "artiste": "Panic! at the Disco",
   "quintes": -2,
   "source": {
     "nom": "nine-in-the-afternoon-piano-and-vocals-panic-at-the-disco-with-download.mxl",
     "type": "musicxml",
-    "empreinte": "3c30d46704f22c4548a18be6fe1ad18614e21ab91f9fce27f134833d286d036a"
+    "empreinte": "fad54d28a415df8370f89f0e4096af8f38987046e7db10bfb3edaca7934cc77a"
   },
   "affectation": {
     "roles": {
@@ -23,5 +23,6 @@
     "mains": "deux"
   },
   "creeLe": 1792983653345,
-  "modifieLe": 1792983683313
+  "genre": "Pop rock",
+  "modifieLe": 1795281309722
 }
