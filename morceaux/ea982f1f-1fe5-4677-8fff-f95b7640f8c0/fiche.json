@@ -24,7 +24,7 @@
   "sections": [],
   "doigtes": {},
   "reglages": {
-    "transposition": -1,
+    "transposition": -2,
     "tempo": 100,
     "mains": "deux",
     "mode": "edition",
@@ -39,5 +39,5 @@
       "meilleurScore": 6741
     }
   },
-  "modifieLe": 1795289594686
+  "modifieLe": 1795289597304
 }
