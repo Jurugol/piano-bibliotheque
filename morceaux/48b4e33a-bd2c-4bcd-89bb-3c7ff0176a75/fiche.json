@@ -1,12 +1,12 @@
 {
   "id": "48b4e33a-bd2c-4bcd-89bb-3c7ff0176a75",
   "titre": "Ichiban no Takaramono",
-  "artiste": "Bummel",
+  "artiste": "Girls Dead Monster",
   "quintes": -1,
   "source": {
     "nom": "ichiban-no-takaramono-angel-beats-piano.mxl",
     "type": "musicxml",
-    "empreinte": "d513e42b6631475491293f6eb827bb0215507a993b608dc3bfeafbc293eab71d"
+    "empreinte": "8350bd8e3348f28f47af14239f04ffe3dad878b527471dfc00a61a54713a0e01"
   },
   "affectation": {
     "roles": {
@@ -27,5 +27,7 @@
   "sectionsPretes": [],
   "challenge": {},
   "historique": [],
-  "modifieLe": 1793242101980
+  "genre": "OST anime / jeu",
+  "oeuvre": "Angel Beats!",
+  "modifieLe": 1795281309106
 }
