@@ -1,12 +1,12 @@
 {
   "id": "8ded343a-75b6-4d49-afc3-5c48105e11cd",
   "titre": "With Me",
-  "artiste": "",
+  "artiste": "Sum 41",
   "quintes": 4,
   "source": {
     "nom": "with-me-sum-41.mxl",
     "type": "musicxml",
-    "empreinte": "5ec1938ec697bd0d02539ec282f7e06ee8e9e904e605bce4c5645951c7b75e13"
+    "empreinte": "19cc93c246ef2a93112772fb1283cf839c329afc71664d42687adb59db059bc1"
   },
   "affectation": {
     "roles": {
@@ -22,5 +22,6 @@
     "mains": "deux"
   },
   "creeLe": 1792983653738,
-  "modifieLe": 1792983653738
+  "genre": "Pop punk",
+  "modifieLe": 1795281311946
 }
