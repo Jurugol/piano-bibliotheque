@@ -1,0 +1,27 @@
+{
+  "id": "509bdd7c-ab84-488f-800a-770040585a4d",
+  "titre": "Imagination",
+  "artiste": "John Lennon",
+  "quintes": 0,
+  "source": {
+    "nom": "imagine.mxl",
+    "type": "musicxml",
+    "empreinte": "84397c25133f715d4553c478d379a581204e03e7f3778d05aa2b253c187a5720"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795282107068,
+  "modifieLe": 1795282107068
+}
