@@ -1,0 +1,27 @@
+{
+  "id": "018b0a99-9659-49e4-b3af-8fd58a6ddb4f",
+  "titre": "Breaking the Habit",
+  "artiste": "LINKIN PARK",
+  "quintes": 1,
+  "source": {
+    "nom": "breaking-the-habit-linkin-park.mxl",
+    "type": "musicxml",
+    "empreinte": "a7f5a8b12e47cc80f84ae7e7e8aa46b7ee8d0765eb19d31e86ee7696f386af96"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795281307979,
+  "modifieLe": 1795281307979
+}
