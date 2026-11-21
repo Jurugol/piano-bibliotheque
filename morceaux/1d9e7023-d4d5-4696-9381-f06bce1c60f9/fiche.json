@@ -1,0 +1,37 @@
+{
+  "id": "1d9e7023-d4d5-4696-9381-f06bce1c60f9",
+  "titre": "I Write Sins Not Tragedies",
+  "artiste": "Panic! at the Disco",
+  "genre": "Pop rock",
+  "quintes": 0,
+  "source": {
+    "nom": "i-write-sins-not-tragedies-panic-at-the-disco.mxl",
+    "type": "musicxml",
+    "empreinte": "e2acb8e306b1d38baa2a01affa4507f8ff7d108cb734bc18f43ae89721f19d95"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "ignorer",
+      "P3/1": "ignorer",
+      "P4/1": "ignorer",
+      "P5/1": "ignorer",
+      "P6/1": "ignorer",
+      "P7/1": "ignorer",
+      "P8/1": "droite",
+      "P8/2": "gauche",
+      "P9/1": "ignorer",
+      "P10/1": "ignorer",
+      "P11/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795283306772,
+  "modifieLe": 1795283306772
+}
