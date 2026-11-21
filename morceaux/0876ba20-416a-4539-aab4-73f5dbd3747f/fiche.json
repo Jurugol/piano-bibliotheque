@@ -1,0 +1,28 @@
+{
+  "id": "0876ba20-416a-4539-aab4-73f5dbd3747f",
+  "titre": "Keep Breathing",
+  "artiste": "Ingrid Michaelson Arr. SparklingJupiter",
+  "quintes": -3,
+  "source": {
+    "nom": "fix-you-coldplay-ssa.mxl",
+    "type": "musicxml",
+    "empreinte": "9a55028020282abc8e517e4cae409575505d1e891a3a1be6d93212aaf22352f0"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "chant",
+      "P3/1": "droite",
+      "P3/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795281658916,
+  "modifieLe": 1795281658916
+}
