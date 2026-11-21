@@ -1,12 +1,12 @@
 {
   "id": "a2179faf-45d5-48f0-b474-94f8c8fc5282",
-  "titre": "Over my head",
+  "titre": "Over My Head (Cable Car)",
   "artiste": "The Fray",
   "quintes": -4,
   "source": {
     "nom": "Over_my_head_-_The_Fray_(Piano-Vocal-Guitar) (Audiveris).mxl",
     "type": "musicxml",
-    "empreinte": "bae9471f19524ba25cbddc142b5811462bf09a19164c504e9c4b0f804f0838e7"
+    "empreinte": "e7ade265a577523bf61aad173b57763a6195a244b7c519f329dac0efb066cde1"
   },
   "affectation": {
     "roles": {
@@ -42,5 +42,7 @@
       }
     }
   },
-  "modifieLe": 1794106271815
+  "genre": "Pop rock",
+  "version": "Piano-chant-guitare (Audiveris)",
+  "modifieLe": 1795281309986
 }
