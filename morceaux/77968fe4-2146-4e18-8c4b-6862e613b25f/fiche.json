@@ -6,7 +6,7 @@
   "source": {
     "nom": "song-for-friends-jun-maeda.mxl",
     "type": "musicxml",
-    "empreinte": "b7b1e9f87632290e92a4fe87efa7ee74ebf226d28b9a702c1adeed2660373a3b"
+    "empreinte": "61c74ba2b5cf7cf681a699285bc4824e0027b94831af2c89ed3ea059a41b3a64"
   },
   "affectation": {
     "roles": {
@@ -27,5 +27,5 @@
   "creeLe": 1793239513922,
   "genre": "OST anime / jeu",
   "oeuvre": "Little Busters!",
-  "modifieLe": 1795281310481
+  "modifieLe": 1795283309607
 }
