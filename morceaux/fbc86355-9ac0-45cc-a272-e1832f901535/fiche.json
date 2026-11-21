@@ -1,12 +1,12 @@
 {
   "id": "fbc86355-9ac0-45cc-a272-e1832f901535",
-  "titre": "Don't look back in anger",
-  "artiste": "Words & Music by Oasis",
+  "titre": "Don't Look Back in Anger",
+  "artiste": "Oasis",
   "quintes": 0,
   "source": {
     "nom": "dont-look-back-in-anger-oasis.mxl",
     "type": "musicxml",
-    "empreinte": "79d410c06cbc219182399cff0eb9be5e34e65a4643867431808b0bbae872e3f0"
+    "empreinte": "bdeb5a0b13d89c078fda226e852b286c9716acc61286c326e72d536722853d4c"
   },
   "affectation": {
     "roles": {
@@ -23,5 +23,6 @@
     "mains": "deux"
   },
   "creeLe": 1795278670002,
-  "modifieLe": 1795278670002
+  "genre": "Britpop",
+  "modifieLe": 1795281308515
 }
