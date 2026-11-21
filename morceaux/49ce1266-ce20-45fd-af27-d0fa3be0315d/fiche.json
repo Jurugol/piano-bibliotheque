@@ -1,0 +1,28 @@
+{
+  "id": "49ce1266-ce20-45fd-af27-d0fa3be0315d",
+  "titre": "This Is Gospel",
+  "artiste": "Panic! at the Disco",
+  "genre": "Pop rock",
+  "quintes": 2,
+  "source": {
+    "nom": "this-is-gospel.mxl",
+    "type": "musicxml",
+    "empreinte": "f63ab2c3464d7e50fbe21ca85337b17348f2c010e60b2032aa985fd9378c3703"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795283310687,
+  "modifieLe": 1795283310687
+}
