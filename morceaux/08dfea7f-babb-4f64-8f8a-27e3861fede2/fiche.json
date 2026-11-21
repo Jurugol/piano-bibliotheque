@@ -1,0 +1,32 @@
+{
+  "id": "08dfea7f-babb-4f64-8f8a-27e3861fede2",
+  "titre": "Numb - Linkin Park",
+  "artiste": "",
+  "quintes": 3,
+  "source": {
+    "nom": "numb-linkin-park-full-instrumental.mxl",
+    "type": "musicxml",
+    "empreinte": "5d8c2fa159163b555b7fc971220b5994848aab13261360ac0052fa0fe59756e0"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P1/2": "ignorer",
+      "P2/1": "ignorer",
+      "P3/1": "droite",
+      "P3/2": "gauche",
+      "P4/1": "ignorer",
+      "P5/1": "ignorer",
+      "P6/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795278929020,
+  "modifieLe": 1795278929020
+}
