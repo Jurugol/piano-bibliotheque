@@ -1,12 +1,12 @@
 {
   "id": "9633c507-7a6a-4278-aa0e-652f438ac4bd",
   "titre": "What I've Done",
-  "artiste": "",
+  "artiste": "Linkin Park",
   "quintes": -2,
   "source": {
     "nom": "what-ive-done-linkin-park.mxl",
     "type": "musicxml",
-    "empreinte": "d15ee91dc94f5d707fa94478adf5172aa14bf8b05eea91d9378165415a7432a3"
+    "empreinte": "30d8c27a0e896b323a49bb7c041e8d7454320ee78e2bcd920281f12f3d634ac2"
   },
   "affectation": {
     "roles": {
@@ -23,5 +23,7 @@
     "mains": "deux"
   },
   "creeLe": 1795281311757,
-  "modifieLe": 1795281311757
+  "genre": "Rock alternatif",
+  "version": "Piano et guitare",
+  "modifieLe": 1795283311705
 }
