@@ -6,7 +6,7 @@
   "source": {
     "nom": "sunburn-muse-piano-voice.mxl",
     "type": "musicxml",
-    "empreinte": "1164d4b90f0f221fb4bc6d8182424e9edeecd3495786fb777276e4e02b96e1fd"
+    "empreinte": "222ca236636290d798fc459f6d624b076aadbb0b12b096e544cfecb3c1f335e7"
   },
   "affectation": {
     "roles": {
@@ -51,5 +51,5 @@
     }
   },
   "genre": "Rock alternatif",
-  "modifieLe": 1795281310839
+  "modifieLe": 1795283310090
 }
