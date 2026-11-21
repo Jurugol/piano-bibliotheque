@@ -27,7 +27,7 @@
     "transposition": -2,
     "tempo": 100,
     "mains": "deux",
-    "mode": "edition",
+    "mode": "apprendre",
     "difficulte": "intermediaire"
   },
   "creeLe": 1795281311603,
@@ -39,5 +39,5 @@
       "meilleurScore": 6741
     }
   },
-  "modifieLe": 1795289597304
+  "modifieLe": 1795289759713
 }
