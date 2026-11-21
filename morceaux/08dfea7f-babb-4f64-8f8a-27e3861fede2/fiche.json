@@ -1,12 +1,12 @@
 {
   "id": "08dfea7f-babb-4f64-8f8a-27e3861fede2",
-  "titre": "Numb - Linkin Park",
-  "artiste": "",
+  "titre": "Numb",
+  "artiste": "Linkin Park",
   "quintes": 3,
   "source": {
     "nom": "numb-linkin-park-full-instrumental.mxl",
     "type": "musicxml",
-    "empreinte": "5d8c2fa159163b555b7fc971220b5994848aab13261360ac0052fa0fe59756e0"
+    "empreinte": "c6106eec88a265208593fee98de9c608da4c3932cebe1d43a257faf5edb443b8"
   },
   "affectation": {
     "roles": {
@@ -28,5 +28,6 @@
     "mains": "deux"
   },
   "creeLe": 1795278929020,
-  "modifieLe": 1795278929020
+  "genre": "Rock alternatif",
+  "modifieLe": 1795281309553
 }
