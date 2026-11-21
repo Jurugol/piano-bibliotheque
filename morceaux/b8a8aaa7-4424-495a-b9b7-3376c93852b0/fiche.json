@@ -1,12 +1,12 @@
 {
   "id": "b8a8aaa7-4424-495a-b9b7-3376c93852b0",
-  "titre": "遥か彼方",
-  "artiste": "Jun Maeda",
+  "titre": "遥か彼方 (Haruka Kanata)",
+  "artiste": "Rita",
   "quintes": 1,
   "source": {
     "nom": "yaoka-bi-fang-jun-maeda-faraway.mxl",
     "type": "musicxml",
-    "empreinte": "f62b35bd4e2370911ec75c789bf9e14341d3376c8091a75f6de24ba0829ab295"
+    "empreinte": "07e1d480d8bd7651d3a95d76f15ef004f98239f6201d2c31d5c1f5e889d48423"
   },
   "affectation": {
     "roles": {
@@ -23,5 +23,7 @@
     "mains": "deux"
   },
   "creeLe": 1793239785969,
-  "modifieLe": 1793239785969
+  "genre": "OST anime / jeu",
+  "oeuvre": "Little Busters!",
+  "modifieLe": 1795281312051
 }
