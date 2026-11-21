@@ -6,7 +6,7 @@
   "source": {
     "nom": "starlight-muse.mxl",
     "type": "musicxml",
-    "empreinte": "d6e6afbe7299c5f5d0d263195aa0adac9c471e4d54b9a8bd2e22648db80daac1"
+    "empreinte": "e49936222e50d74a2213c72de9385f7f8dfcba61f28e0376e5ce04e87a300d7e"
   },
   "affectation": {
     "roles": {
@@ -326,5 +326,5 @@
     }
   },
   "genre": "Rock alternatif",
-  "modifieLe": 1795281310597
+  "modifieLe": 1795283309424
 }
