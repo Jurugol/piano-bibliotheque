@@ -1,0 +1,32 @@
+{
+  "id": "f4213680-70c4-40cd-b010-111f92b1a436",
+  "titre": "Welcome to the Black Parade",
+  "artiste": "MCR",
+  "quintes": 1,
+  "source": {
+    "nom": "welcome-to-the-black-parade.mxl",
+    "type": "musicxml",
+    "empreinte": "cdaff63eccf0506c312612eca967db6694b60e77b7a21f170f51add35bdc5f16"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "ignorer",
+      "P3/1": "ignorer",
+      "P4/1": "ignorer",
+      "P5/1": "ignorer",
+      "P6/1": "droite",
+      "P6/2": "gauche",
+      "P7/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795281311482,
+  "modifieLe": 1795281311482
+}
