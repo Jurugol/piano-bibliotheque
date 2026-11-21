@@ -6,7 +6,7 @@
   "source": {
     "nom": "karma-police-radiohead.mxl",
     "type": "musicxml",
-    "empreinte": "ce00548edf882a4195420363414d5d903cf8c371f85f398129c3882d9970a56a"
+    "empreinte": "85e05f5d1e891ffc746f1dfe0858ce067bbe13395a3158fba91d1d682ddb7836"
   },
   "affectation": {
     "roles": {
@@ -196,5 +196,5 @@
     }
   },
   "genre": "Rock alternatif",
-  "modifieLe": 1795281309283
+  "modifieLe": 1795283307199
 }
