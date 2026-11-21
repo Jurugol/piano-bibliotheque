@@ -6,7 +6,7 @@
   "source": {
     "nom": "coldplay-what-if-pianovoice.mxl",
     "type": "musicxml",
-    "empreinte": "6103b2d6ba6d40547c998259f338994638b074da9a8c97a426e21077fe5543bf"
+    "empreinte": "72578da014cc68826da93015c332b3b9bc4e4b3a323cf208a8103f79f11abe4a"
   },
   "affectation": {
     "roles": {
@@ -33,5 +33,5 @@
     }
   },
   "genre": "Rock alternatif",
-  "modifieLe": 1795281308358
+  "modifieLe": 1795283305565
 }
