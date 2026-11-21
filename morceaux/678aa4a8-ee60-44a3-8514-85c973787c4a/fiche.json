@@ -25,5 +25,12 @@
   },
   "creeLe": 1795282072089,
   "genre": "Pop rock",
-  "modifieLe": 1795295285632
+  "entrainement": {
+    "1-8@intermediaire|tout|dechiffrer-jeu|deux": {
+      "meilleur": 0.95,
+      "essais": 1,
+      "meilleurScore": 4523
+    }
+  },
+  "modifieLe": 1795295314460
 }
