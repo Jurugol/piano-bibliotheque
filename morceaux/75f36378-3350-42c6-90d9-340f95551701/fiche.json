@@ -1,0 +1,27 @@
+{
+  "id": "75f36378-3350-42c6-90d9-340f95551701",
+  "titre": "Let it be",
+  "artiste": "Words & Music by John Lennon & Paul Mc Cartney",
+  "quintes": 0,
+  "source": {
+    "nom": "let-it-be-the-beatles.mxl",
+    "type": "musicxml",
+    "empreinte": "b51189ade8fe37611105df5dd13e4d932d215279188cace5558d5b54bbbe4675"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795282203314,
+  "modifieLe": 1795282203314
+}
