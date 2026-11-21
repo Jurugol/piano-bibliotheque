@@ -1,12 +1,12 @@
 {
   "id": "0876ba20-416a-4539-aab4-73f5dbd3747f",
   "titre": "Keep Breathing",
-  "artiste": "Ingrid Michaelson Arr. SparklingJupiter",
+  "artiste": "Ingrid Michaelson",
   "quintes": -3,
   "source": {
     "nom": "fix-you-coldplay-ssa.mxl",
     "type": "musicxml",
-    "empreinte": "9a55028020282abc8e517e4cae409575505d1e891a3a1be6d93212aaf22352f0"
+    "empreinte": "aa46fbc43f00323ba4b932091918220d0a69e1ad4419090f8640dea7e980e575"
   },
   "affectation": {
     "roles": {
@@ -24,5 +24,7 @@
     "mains": "deux"
   },
   "creeLe": 1795281658916,
-  "modifieLe": 1795281658916
+  "genre": "Pop",
+  "version": "Chœur SSA et piano",
+  "modifieLe": 1795283306179
 }
