@@ -1,0 +1,26 @@
+{
+  "id": "816cb4cc-b43a-404f-b9b8-9662cb4554bf",
+  "titre": "In the End",
+  "artiste": "Linkin Park",
+  "quintes": -1,
+  "source": {
+    "nom": "in-the-end-linkin-park.mxl",
+    "type": "musicxml",
+    "empreinte": "0ac1c73422bd9c2c8c612fe1f79c0169a587713b2c0130a23d2f7f03678a45ea"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795279787997,
+  "modifieLe": 1795279787997
+}
