@@ -6,7 +6,7 @@
   "source": {
     "nom": "clocks-coldplay.mxl",
     "type": "musicxml",
-    "empreinte": "899e12c8419cc18d308223955896a1d9358403a314b70ba055fedce6aeb1a754"
+    "empreinte": "cd128a728f096044ef3eea12ec0559bcad6a0467e95ffad6bf140d119f653ade"
   },
   "affectation": {
     "roles": {
@@ -107,5 +107,6 @@
       "mains": "gauche"
     }
   },
-  "modifieLe": 1792725646039
+  "genre": "Rock alternatif",
+  "modifieLe": 1795281308204
 }
