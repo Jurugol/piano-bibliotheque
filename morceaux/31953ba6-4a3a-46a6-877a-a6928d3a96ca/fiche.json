@@ -1,12 +1,12 @@
 {
   "id": "31953ba6-4a3a-46a6-877a-a6928d3a96ca",
   "titre": "Trouble",
-  "artiste": "",
+  "artiste": "Coldplay",
   "quintes": 1,
   "source": {
     "nom": "trouble-coldplay.mxl",
     "type": "musicxml",
-    "empreinte": "81db5da4b690fc299aab7ff14c6cb9d13d9a79702bf5c6204e0d577fc77d887f"
+    "empreinte": "1dc43b39e95e51ea7cd66405f032aac69dbb5d8358ec978be242d20f8f71df79"
   },
   "affectation": {
     "roles": {
@@ -23,5 +23,6 @@
     "mains": "deux"
   },
   "creeLe": 1792983653515,
-  "modifieLe": 1792983653515
+  "genre": "Rock alternatif",
+  "modifieLe": 1795281311173
 }
