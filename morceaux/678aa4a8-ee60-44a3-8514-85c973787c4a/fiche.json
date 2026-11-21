@@ -1,12 +1,12 @@
 {
   "id": "678aa4a8-ee60-44a3-8514-85c973787c4a",
-  "titre": "This Is The Last Time",
-  "artiste": "",
+  "titre": "This Is the Last Time",
+  "artiste": "Keane",
   "quintes": 1,
   "source": {
     "nom": "this-is-the-last-time-keane.mxl",
     "type": "musicxml",
-    "empreinte": "233a15252d60b9fbf0a3b0190cd2c4485cdaf9f4448e252719aaf2e5f88ddeda"
+    "empreinte": "f3eaff929497b53ccdb2a191acaa41c13cc4c97c816304aacc04ba70d581abc8"
   },
   "affectation": {
     "roles": {
@@ -22,5 +22,6 @@
     "mains": "deux"
   },
   "creeLe": 1795282072089,
-  "modifieLe": 1795282072089
+  "genre": "Pop rock",
+  "modifieLe": 1795283310570
 }
