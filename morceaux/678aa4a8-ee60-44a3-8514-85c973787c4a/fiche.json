@@ -19,9 +19,11 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "deux"
+    "mains": "deux",
+    "mode": "apprendre",
+    "difficulte": "intermediaire"
   },
   "creeLe": 1795282072089,
   "genre": "Pop rock",
-  "modifieLe": 1795283310570
+  "modifieLe": 1795295285632
 }
