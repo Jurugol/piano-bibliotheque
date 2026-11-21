@@ -7,7 +7,7 @@
   "source": {
     "nom": "what-ive-done-guitar-bass-drums-vocals-piano.mxl",
     "type": "musicxml",
-    "empreinte": "e5b3630fc9d52511a6ead42515891e46cacd19e48ed54d1fdcbec3cfa4d21f78"
+    "empreinte": "ee2e2a33c36d644e47424c46a29fdb579c33f92c16262655ce83c7c05f496ed0"
   },
   "affectation": {
     "roles": {
@@ -29,5 +29,6 @@
     "mains": "deux"
   },
   "creeLe": 1795281311603,
-  "modifieLe": 1795281311603
+  "version": "Groupe complet",
+  "modifieLe": 1795283312109
 }
