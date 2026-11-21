@@ -6,7 +6,7 @@
   "source": {
     "nom": "stop-crying-your-heart-out-oasis.mxl",
     "type": "musicxml",
-    "empreinte": "f86155df684ebd75e684d7af03aa61f8183149fbc46bf9b5e91b9987aa1dabe3"
+    "empreinte": "bfeb93efde1ac484e0e1310fbf0f6ce1c3c36b191513c54c2c29827279719e08"
   },
   "affectation": {
     "roles": {
@@ -22,5 +22,6 @@
     "mains": "deux"
   },
   "creeLe": 1795278670116,
-  "modifieLe": 1795278670116
+  "genre": "Britpop",
+  "modifieLe": 1795281310716
 }
