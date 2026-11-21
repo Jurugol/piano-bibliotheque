@@ -1,12 +1,12 @@
 {
   "id": "509bdd7c-ab84-488f-800a-770040585a4d",
-  "titre": "Imagination",
+  "titre": "Imagine",
   "artiste": "John Lennon",
   "quintes": 0,
   "source": {
     "nom": "imagine.mxl",
     "type": "musicxml",
-    "empreinte": "84397c25133f715d4553c478d379a581204e03e7f3778d05aa2b253c187a5720"
+    "empreinte": "e493990f6a061da7adca49fe6d11f4ba9771a68740dd402e39ec644d89d94971"
   },
   "affectation": {
     "roles": {
@@ -23,5 +23,6 @@
     "mains": "deux"
   },
   "creeLe": 1795282107068,
-  "modifieLe": 1795282107068
+  "genre": "Pop rock",
+  "modifieLe": 1795283307275
 }
