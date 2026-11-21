@@ -1,0 +1,27 @@
+{
+  "id": "fbc86355-9ac0-45cc-a272-e1832f901535",
+  "titre": "Don't look back in anger",
+  "artiste": "Words & Music by Oasis",
+  "quintes": 0,
+  "source": {
+    "nom": "dont-look-back-in-anger-oasis.mxl",
+    "type": "musicxml",
+    "empreinte": "79d410c06cbc219182399cff0eb9be5e34e65a4643867431808b0bbae872e3f0"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795278670002,
+  "modifieLe": 1795278670002
+}
