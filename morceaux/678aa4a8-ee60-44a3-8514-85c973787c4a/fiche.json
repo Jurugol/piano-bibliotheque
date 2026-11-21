@@ -1,0 +1,26 @@
+{
+  "id": "678aa4a8-ee60-44a3-8514-85c973787c4a",
+  "titre": "This Is The Last Time",
+  "artiste": "",
+  "quintes": 1,
+  "source": {
+    "nom": "this-is-the-last-time-keane.mxl",
+    "type": "musicxml",
+    "empreinte": "233a15252d60b9fbf0a3b0190cd2c4485cdaf9f4448e252719aaf2e5f88ddeda"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795282072089,
+  "modifieLe": 1795282072089
+}
