@@ -1,0 +1,28 @@
+{
+  "id": "c9a12ea0-c832-48bd-92ce-3b77e890abb5",
+  "titre": "Say Amen (Saturday Night)",
+  "artiste": "Panic! at the Disco",
+  "genre": "Pop rock",
+  "quintes": 2,
+  "source": {
+    "nom": "panic-at-the-disco-say-amen-saturday-night-pianovoice.mxl",
+    "type": "musicxml",
+    "empreinte": "0c6a5038922abde79539cddefc9a472361aa0de98512749f5960ca84533ed20c"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795283309043,
+  "modifieLe": 1795283309043
+}
