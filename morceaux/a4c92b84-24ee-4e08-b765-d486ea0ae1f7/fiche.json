@@ -6,7 +6,7 @@
   "source": {
     "nom": "coldplay-sky-full-of-stars.mxl",
     "type": "musicxml",
-    "empreinte": "eb5e7e6ae250187021f308395f3b74c462f0efc2ed3e94ebd720087443ea62df"
+    "empreinte": "e3157aa62b2174c97e29e04243f8f92cc5bcbd24c63fcbe3fc4b9629dcc8dbfd"
   },
   "affectation": {
     "roles": {
@@ -25,5 +25,5 @@
   },
   "creeLe": 1792591438488,
   "genre": "Pop",
-  "modifieLe": 1795281308293
+  "modifieLe": 1795283305110
 }
