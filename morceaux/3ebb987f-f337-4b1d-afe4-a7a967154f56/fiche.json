@@ -6,7 +6,7 @@
   "source": {
     "nom": "everybodys-changing-keane.mxl",
     "type": "musicxml",
-    "empreinte": "175e376deef112c334da54db0853d4bde2e041fbd70e30f5c8befb320a75965c"
+    "empreinte": "e1a985144c88330e209d0c033d2fccae614c32705aa0b637a0b427cddc8dce62"
   },
   "affectation": {
     "roles": {
@@ -23,5 +23,6 @@
     "mains": "deux"
   },
   "creeLe": 1795281308790,
-  "modifieLe": 1795281308790
+  "genre": "Pop rock",
+  "modifieLe": 1795283305648
 }
