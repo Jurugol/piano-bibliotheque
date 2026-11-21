@@ -6,7 +6,7 @@
   "source": {
     "nom": "panic-at-the-disco-dying-in-la.mxl",
     "type": "musicxml",
-    "empreinte": "f470f95252eb01d1a467f1bac7ba55a9a80a39675bb6ac7211aa60d4d4806d5e"
+    "empreinte": "5df6d1c53edf5698e02f90874b4170a9549f4af6d65ce255772f055ab4f2cd3d"
   },
   "affectation": {
     "roles": {
@@ -26,5 +26,5 @@
   },
   "creeLe": 1792983653276,
   "genre": "Pop",
-  "modifieLe": 1795281310077
+  "modifieLe": 1795283308669
 }
