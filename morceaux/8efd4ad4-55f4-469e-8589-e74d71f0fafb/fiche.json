@@ -1,12 +1,12 @@
 {
   "id": "8efd4ad4-55f4-469e-8589-e74d71f0fafb",
-  "titre": "Saya's song",
-  "artiste": "Jun Maeda",
+  "titre": "Saya's Song",
+  "artiste": "Lia",
   "quintes": 1,
   "source": {
     "nom": "sayas-song-jun-maeda.mxl",
     "type": "musicxml",
-    "empreinte": "c7b296b8c87d3977c0f541d331a239266cdf3b07e7701796b1f479b106e17f03"
+    "empreinte": "44123c8a3efa0c6854aa6c7ece1285d06a25502a55c3dee3d4bc4e0f062dfad2"
   },
   "affectation": {
     "roles": {
@@ -22,5 +22,7 @@
     "mains": "deux"
   },
   "creeLe": 1793239513823,
-  "modifieLe": 1793239513823
+  "genre": "OST anime / jeu",
+  "oeuvre": "Little Busters! Ecstasy",
+  "modifieLe": 1795281310373
 }
