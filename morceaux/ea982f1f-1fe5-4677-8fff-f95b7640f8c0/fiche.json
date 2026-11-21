@@ -32,5 +32,12 @@
   },
   "creeLe": 1795281311603,
   "version": "Groupe complet",
-  "modifieLe": 1795289444098
+  "entrainement": {
+    "1-10@intermediaire|tout|dechiffrer-jeu|deux": {
+      "meilleur": 0.875,
+      "essais": 1,
+      "meilleurScore": 4733
+    }
+  },
+  "modifieLe": 1795289504064
 }
