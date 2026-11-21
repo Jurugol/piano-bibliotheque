@@ -1,12 +1,12 @@
 {
   "id": "6ae40568-928e-43a5-a1d5-adb27e705bc8",
   "titre": "Theme of Rewrite",
-  "artiste": "朋夜",
+  "artiste": "Key",
   "quintes": -3,
   "source": {
     "nom": "theme-of-rewrite.mxl",
     "type": "musicxml",
-    "empreinte": "86bbc3c98e6c8e31fa54b435c1b30356c496e32f08099f4a4e75f2be403b583b"
+    "empreinte": "07ddea6fa6d939bc811b12070398a510a67f08121534e8d0f1d527ec7a4f5010"
   },
   "affectation": {
     "roles": {
@@ -31,5 +31,7 @@
       "meilleurScore": 20
     }
   },
-  "modifieLe": 1793414442627
+  "genre": "OST anime / jeu",
+  "oeuvre": "Rewrite",
+  "modifieLe": 1795281311098
 }
