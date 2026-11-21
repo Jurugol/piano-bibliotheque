@@ -6,7 +6,7 @@
   "source": {
     "nom": "the-scientist.mxl",
     "type": "musicxml",
-    "empreinte": "b6e383a32a433ea7a0d49d4d5e2417f6961a53189199c32163dd09f72f6af0db"
+    "empreinte": "488a0aea3ec2f1ab0f7eacf6f21aaed5a077b1c12de2da9e207794ffa2d7c244"
   },
   "affectation": {
     "roles": {
@@ -26,5 +26,5 @@
   "creeLe": 1792591396530,
   "historique": [],
   "genre": "Rock alternatif",
-  "modifieLe": 1795281310999
+  "modifieLe": 1795283310248
 }
