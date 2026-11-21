@@ -1,0 +1,27 @@
+{
+  "id": "9633c507-7a6a-4278-aa0e-652f438ac4bd",
+  "titre": "What I've Done",
+  "artiste": "",
+  "quintes": -2,
+  "source": {
+    "nom": "what-ive-done-linkin-park.mxl",
+    "type": "musicxml",
+    "empreinte": "d15ee91dc94f5d707fa94478adf5172aa14bf8b05eea91d9378165415a7432a3"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche",
+      "P2/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795281311757,
+  "modifieLe": 1795281311757
+}
