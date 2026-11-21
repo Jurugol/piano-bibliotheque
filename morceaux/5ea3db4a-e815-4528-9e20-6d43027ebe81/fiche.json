@@ -1,12 +1,12 @@
 {
   "id": "5ea3db4a-e815-4528-9e20-6d43027ebe81",
-  "titre": "Everything In It's Right Place",
+  "titre": "Everything in Its Right Place",
   "artiste": "Radiohead",
   "quintes": 0,
   "source": {
     "nom": "everything-in-its-right-place-radiohead-everything-in-its-right-place-radiohead.mxl",
     "type": "musicxml",
-    "empreinte": "82221eaf1b4a26fe85b42271a149f40cc6af04b35460225035fd5179a7c8538a"
+    "empreinte": "e20fe480d6051706c9bcbcc209ff555f4ab1368a37b2905e2daca2eee86d5516"
   },
   "affectation": {
     "roles": {
@@ -44,5 +44,6 @@
       60
     ]
   },
-  "modifieLe": 1792597291997
+  "genre": "Rock alternatif",
+  "modifieLe": 1795281308614
 }
