@@ -1,12 +1,12 @@
 {
   "id": "571f51d0-4491-4761-9831-6c9a651a9252",
-  "titre": "Over my head",
+  "titre": "Over My Head (Cable Car)",
   "artiste": "The Fray",
   "quintes": -4,
   "source": {
     "nom": "Over my head - The Fray (corrigé).mxl",
     "type": "musicxml",
-    "empreinte": "e88ad6f5e36854effafbefa8fa5c4912ee95f53f32363e895c86403d53ef5532"
+    "empreinte": "d47108203c3322e531a2ad2f4bb328d7b3a885b5e721ab0946531cc882443b65"
   },
   "affectation": {
     "roles": {
@@ -38,5 +38,7 @@
       }
     }
   },
-  "modifieLe": 1794095348831
+  "genre": "Pop rock",
+  "version": "Corrigée",
+  "modifieLe": 1795281309873
 }
