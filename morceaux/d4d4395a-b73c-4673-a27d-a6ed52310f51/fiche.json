@@ -6,7 +6,7 @@
   "source": {
     "nom": "violet-hill-coldplay-full-transcription.mxl",
     "type": "musicxml",
-    "empreinte": "076f355b83a6c5b75cca131da175087680eda8692b9f6a2839725c4e1e3a9d6a"
+    "empreinte": "ccb5bb9efbe6e1571c2407a53120b32d09916d45012336bedba51ba40284f7e5"
   },
   "affectation": {
     "roles": {
@@ -31,5 +31,5 @@
   },
   "creeLe": 1792983653607,
   "genre": "Rock alternatif",
-  "modifieLe": 1795281311291
+  "modifieLe": 1795283310915
 }
