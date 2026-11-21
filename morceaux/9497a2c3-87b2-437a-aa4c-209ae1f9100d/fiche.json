@@ -1,12 +1,12 @@
 {
   "id": "9497a2c3-87b2-437a-aa4c-209ae1f9100d",
   "titre": "Dying in LA",
-  "artiste": "Panic at the Disco",
+  "artiste": "Panic! at the Disco",
   "quintes": 2,
   "source": {
     "nom": "panic-at-the-disco-dying-in-la.mxl",
     "type": "musicxml",
-    "empreinte": "bcec306c62ad76b118b7fa7724b1c346e297e736c8bf6fd69cd74ce696be2fa1"
+    "empreinte": "f470f95252eb01d1a467f1bac7ba55a9a80a39675bb6ac7211aa60d4d4806d5e"
   },
   "affectation": {
     "roles": {
@@ -25,5 +25,6 @@
     "difficulte": "intermediaire"
   },
   "creeLe": 1792983653276,
-  "modifieLe": 1793414552894
+  "genre": "Pop",
+  "modifieLe": 1795281310077
 }
