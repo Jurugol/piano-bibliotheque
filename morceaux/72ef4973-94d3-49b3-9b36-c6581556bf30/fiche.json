@@ -1,12 +1,12 @@
 {
   "id": "72ef4973-94d3-49b3-9b36-c6581556bf30",
-  "titre": "What If - Coldplay",
-  "artiste": "Guy Berryman, Jon Buckland, Will Champion & Chris Martin",
+  "titre": "What If",
+  "artiste": "Coldplay",
   "quintes": 3,
   "source": {
     "nom": "coldplay-what-if-pianovoice.mxl",
     "type": "musicxml",
-    "empreinte": "dce62180ae8fc2adc69172412aee1a36b0a59dc0a22ac5be0f44deb076251e9b"
+    "empreinte": "6103b2d6ba6d40547c998259f338994638b074da9a8c97a426e21077fe5543bf"
   },
   "affectation": {
     "roles": {
@@ -32,5 +32,6 @@
       "meilleurScore": 904
     }
   },
-  "modifieLe": 1793065990729
+  "genre": "Rock alternatif",
+  "modifieLe": 1795281308358
 }
