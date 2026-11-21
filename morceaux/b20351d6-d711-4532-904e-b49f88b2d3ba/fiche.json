@@ -1,12 +1,12 @@
 {
   "id": "b20351d6-d711-4532-904e-b49f88b2d3ba",
-  "titre": "How To Save A Life",
+  "titre": "How to Save a Life",
   "artiste": "The Fray",
   "quintes": -2,
   "source": {
     "nom": "how-to-save-a-life-the-fray.mxl",
     "type": "musicxml",
-    "empreinte": "a71a02b833a07ff70d2de18e280df75f94979ba3df1475a20715385b31f9fa2a"
+    "empreinte": "27de51fd39cf6227557336afef678e8ac01cc66eae38703fedfa5de139ea45f2"
   },
   "affectation": {
     "roles": {
@@ -23,5 +23,6 @@
     "mains": "deux"
   },
   "creeLe": 1792596196900,
-  "modifieLe": 1792596196900
+  "genre": "Pop rock",
+  "modifieLe": 1795281308987
 }
