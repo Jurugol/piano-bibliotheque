@@ -6,7 +6,7 @@
   "source": {
     "nom": "bad-day-daniel-powter.mxl",
     "type": "musicxml",
-    "empreinte": "308cac8d0f6c106d2488f7747327e6e969e0642d4497fbf343a0e359b3eb4d8c"
+    "empreinte": "4df5829ee95501af9f6077df097e39589de5d272b9b4e1a2dfede37f6366dd09"
   },
   "affectation": {
     "roles": {
@@ -100,5 +100,6 @@
     "garderChant": false
   },
   "creeLe": 1792595861993,
-  "modifieLe": 1792628395111
+  "genre": "Pop",
+  "modifieLe": 1795281307778
 }
