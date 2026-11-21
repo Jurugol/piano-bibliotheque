@@ -34,10 +34,10 @@
   "version": "Groupe complet",
   "entrainement": {
     "1-10@intermediaire|tout|dechiffrer-jeu|deux": {
-      "meilleur": 0.875,
-      "essais": 1,
-      "meilleurScore": 4733
+      "meilleur": 0.925,
+      "essais": 2,
+      "meilleurScore": 6741
     }
   },
-  "modifieLe": 1795289504064
+  "modifieLe": 1795289541934
 }
