@@ -1,0 +1,30 @@
+{
+  "id": "017d94ce-786a-44d9-acf7-dd0d99176595",
+  "titre": "Perfect",
+  "artiste": "Ed Sheeran",
+  "genre": "Pop",
+  "quintes": -3,
+  "source": {
+    "nom": "perfect-ed-sheeran.mxl",
+    "type": "musicxml",
+    "empreinte": "e0969436fd8f3f4112b8a81decf4cbce0184c6106726cc15232b6a28599cbabc"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "ignorer",
+      "P3/1": "ignorer",
+      "P4/1": "droite",
+      "P5/1": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795281310264,
+  "modifieLe": 1795281310265
+}
