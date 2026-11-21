@@ -24,10 +24,10 @@
   "sections": [],
   "doigtes": {},
   "reglages": {
-    "transposition": 0,
+    "transposition": -1,
     "tempo": 100,
     "mains": "deux",
-    "mode": "apprendre",
+    "mode": "edition",
     "difficulte": "intermediaire"
   },
   "creeLe": 1795281311603,
@@ -39,5 +39,5 @@
       "meilleurScore": 6741
     }
   },
-  "modifieLe": 1795289541934
+  "modifieLe": 1795289594686
 }
