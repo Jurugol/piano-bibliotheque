@@ -6,7 +6,7 @@
   "source": {
     "nom": "gate-of-steiner-piano-official-sheet-music.mxl",
     "type": "musicxml",
-    "empreinte": "d8bf5409aa9ebe3ce3ffdefd3decd249f1a050180c384700828678f134dc8e55"
+    "empreinte": "996b31bf7da194bb793b9578e8e80b9a4187fbe08800b7d411cbf3fd25b430dd"
   },
   "affectation": {
     "roles": {
@@ -24,5 +24,7 @@
     "difficulte": "intermediaire"
   },
   "creeLe": 1793239513610,
-  "modifieLe": 1793240348194
+  "genre": "OST anime / jeu",
+  "oeuvre": "Steins;Gate",
+  "modifieLe": 1795281308879
 }
