@@ -6,7 +6,7 @@
   "source": {
     "nom": "bad-habits-ed-sheeran-piano-duo.mxl",
     "type": "musicxml",
-    "empreinte": "8d5ffa99a6b61cd4c986220bec2b184b1fb314b5615736c150bc63f2991404ac"
+    "empreinte": "653d77e9be7aa69df31642aa0ea4d2f37691fd02ffb5f52faca0a693a69a9945"
   },
   "affectation": {
     "roles": {
@@ -75,5 +75,7 @@
       "mains": "droite"
     }
   },
-  "modifieLe": 1793067876265
+  "genre": "Pop",
+  "version": "Piano duo",
+  "modifieLe": 1795281307909
 }
