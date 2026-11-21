@@ -6,7 +6,7 @@
   "source": {
     "nom": "trouble-coldplay.mxl",
     "type": "musicxml",
-    "empreinte": "1dc43b39e95e51ea7cd66405f032aac69dbb5d8358ec978be242d20f8f71df79"
+    "empreinte": "6dcb135d3b9517d781de8d72fa3956c0b23ff5016a19453e5146ed3a3001ca3a"
   },
   "affectation": {
     "roles": {
@@ -24,5 +24,5 @@
   },
   "creeLe": 1792983653515,
   "genre": "Rock alternatif",
-  "modifieLe": 1795281311173
+  "modifieLe": 1795283310433
 }
