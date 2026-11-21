@@ -1,12 +1,12 @@
 {
   "id": "499950b8-1457-415c-a81a-89dec9295608",
-  "titre": "The scientist",
+  "titre": "The Scientist",
   "artiste": "Coldplay",
   "quintes": 1,
   "source": {
     "nom": "the-scientist.mxl",
     "type": "musicxml",
-    "empreinte": "dcf9b30e3f8ddbfa514f6070d14193ed76ce63772930b27f3b9382b3966fafaa"
+    "empreinte": "b6e383a32a433ea7a0d49d4d5e2417f6961a53189199c32163dd09f72f6af0db"
   },
   "affectation": {
     "roles": {
@@ -25,5 +25,6 @@
   },
   "creeLe": 1792591396530,
   "historique": [],
-  "modifieLe": 1792594045813
+  "genre": "Rock alternatif",
+  "modifieLe": 1795281310999
 }
