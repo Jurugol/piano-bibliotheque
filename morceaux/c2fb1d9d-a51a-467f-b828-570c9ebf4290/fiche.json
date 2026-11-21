@@ -1,0 +1,28 @@
+{
+  "id": "c2fb1d9d-a51a-467f-b828-570c9ebf4290",
+  "titre": "Demons",
+  "artiste": "Arranged by Thomas Andre Mintz",
+  "quintes": -3,
+  "source": {
+    "nom": "5-imagine-dragons-demons.mxl",
+    "type": "musicxml",
+    "empreinte": "d9222789448291e05b40500482a23916d2b1fa4269f8f22c5d6c81ae34dd43bb"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P1/2": "ignorer",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795279787919,
+  "modifieLe": 1795279787919
+}
