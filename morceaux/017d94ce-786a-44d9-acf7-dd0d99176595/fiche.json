@@ -7,7 +7,7 @@
   "source": {
     "nom": "perfect-ed-sheeran.mxl",
     "type": "musicxml",
-    "empreinte": "e0969436fd8f3f4112b8a81decf4cbce0184c6106726cc15232b6a28599cbabc"
+    "empreinte": "a5ba3969ed71ac7027c7055cf396b6f1341d26f44e8cc3c31a69a94c2b1330d6"
   },
   "affectation": {
     "roles": {
@@ -26,5 +26,5 @@
     "mains": "deux"
   },
   "creeLe": 1795281310264,
-  "modifieLe": 1795281310265
+  "modifieLe": 1795283308872
 }
