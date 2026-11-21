@@ -1,12 +1,12 @@
 {
   "id": "f4213680-70c4-40cd-b010-111f92b1a436",
   "titre": "Welcome to the Black Parade",
-  "artiste": "MCR",
+  "artiste": "My Chemical Romance",
   "quintes": 1,
   "source": {
     "nom": "welcome-to-the-black-parade.mxl",
     "type": "musicxml",
-    "empreinte": "cdaff63eccf0506c312612eca967db6694b60e77b7a21f170f51add35bdc5f16"
+    "empreinte": "6ee8d62a3845c819d3f8a40c373becae12e4907dfeaa260c2f905d24a66c2c8e"
   },
   "affectation": {
     "roles": {
@@ -28,5 +28,6 @@
     "mains": "deux"
   },
   "creeLe": 1795281311482,
-  "modifieLe": 1795281311482
+  "genre": "Rock alternatif",
+  "modifieLe": 1795283311520
 }
