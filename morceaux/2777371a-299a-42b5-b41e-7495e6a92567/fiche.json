@@ -6,7 +6,7 @@
   "source": {
     "nom": "feel-robbie-williams.mxl",
     "type": "musicxml",
-    "empreinte": "498ec1ccd252be6fa95f240e7c23b47dc209998bd3d394dc4b424ee2f1498773"
+    "empreinte": "98b4ee945567fe2dfe8188c4a81fe232739d1cb896bae9e0f651bbc0bf07e62d"
   },
   "affectation": {
     "roles": {
@@ -76,5 +76,5 @@
     "1-12@intermediaire#deux"
   ],
   "genre": "Pop",
-  "modifieLe": 1795281308703
+  "modifieLe": 1795283305925
 }
