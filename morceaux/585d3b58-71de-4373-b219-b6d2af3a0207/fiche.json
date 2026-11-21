@@ -1,12 +1,12 @@
 {
   "id": "585d3b58-71de-4373-b219-b6d2af3a0207",
   "titre": "Champagne Supernova",
-  "artiste": "Oasis;노래",
+  "artiste": "Oasis",
   "quintes": 3,
   "source": {
     "nom": "champagne-supernova-oasis.mxl",
     "type": "musicxml",
-    "empreinte": "c8af9ca5c429241ce25427844e04d55e727c88fa60aa603a57ab7b719e0b8eb0"
+    "empreinte": "2dc781081be0b294a7b10dbee00cbae0cfc58105999581bdc611d768ee8ffdb8"
   },
   "affectation": {
     "roles": {
@@ -23,5 +23,6 @@
     "mains": "deux"
   },
   "creeLe": 1795278728332,
-  "modifieLe": 1795278728332
+  "genre": "Britpop",
+  "modifieLe": 1795281308111
 }
