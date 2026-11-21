@@ -1,0 +1,27 @@
+{
+  "id": "3ebb987f-f337-4b1d-afe4-a7a967154f56",
+  "titre": "Everybody's Changing",
+  "artiste": "Keane",
+  "quintes": 0,
+  "source": {
+    "nom": "everybodys-changing-keane.mxl",
+    "type": "musicxml",
+    "empreinte": "175e376deef112c334da54db0853d4bde2e041fbd70e30f5c8befb320a75965c"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P3/1": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795281308790,
+  "modifieLe": 1795281308790
+}
