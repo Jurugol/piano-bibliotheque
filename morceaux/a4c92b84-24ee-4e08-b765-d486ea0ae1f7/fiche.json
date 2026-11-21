@@ -1,12 +1,12 @@
 {
   "id": "a4c92b84-24ee-4e08-b765-d486ea0ae1f7",
-  "titre": "Sky Full of Stars",
+  "titre": "A Sky Full of Stars",
   "artiste": "Coldplay",
   "quintes": -6,
   "source": {
     "nom": "coldplay-sky-full-of-stars.mxl",
     "type": "musicxml",
-    "empreinte": "f558574b9ad2822d768e400f1e749dc04fa7ddf11ccccba74cfc8d06e775edde"
+    "empreinte": "eb5e7e6ae250187021f308395f3b74c462f0efc2ed3e94ebd720087443ea62df"
   },
   "affectation": {
     "roles": {
@@ -24,5 +24,6 @@
     "difficulte": "intermediaire"
   },
   "creeLe": 1792591438488,
-  "modifieLe": 1792631225939
+  "genre": "Pop",
+  "modifieLe": 1795281308293
 }
