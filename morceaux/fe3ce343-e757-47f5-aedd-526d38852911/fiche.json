@@ -1,0 +1,27 @@
+{
+  "id": "fe3ce343-e757-47f5-aedd-526d38852911",
+  "titre": "What If",
+  "artiste": "GUY BERRYMAN;JON BUCKLAND;WILLIAM CHAMPION;CHRIS MARTIN",
+  "quintes": 3,
+  "source": {
+    "nom": "what-if-coldplay.mxl",
+    "type": "musicxml",
+    "empreinte": "c902476a0300042a8d05dd3bade8e8310a16f435e1237bb773f26566ac7cc0ac"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P3/1": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377353812,
+  "modifieLe": 1795377353812
+}
