@@ -1,0 +1,26 @@
+{
+  "id": "626912a3-9884-44aa-9b75-ecc2be4b3915",
+  "titre": "Knights of Cydonia",
+  "artiste": "Muse",
+  "quintes": 1,
+  "source": {
+    "nom": "knights-of-cydonia-muse.mxl",
+    "type": "musicxml",
+    "empreinte": "444a8a26e96e6788d42a39a7e056acf9ac3a1a4ec9474f106247b879d9fc6ce4"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377288914,
+  "modifieLe": 1795377288914
+}
