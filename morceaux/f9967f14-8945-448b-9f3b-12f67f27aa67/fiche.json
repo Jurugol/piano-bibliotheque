@@ -18,10 +18,11 @@
   "sections": [],
   "doigtes": {},
   "reglages": {
-    "transposition": 0,
+    "transposition": -2,
     "tempo": 100,
-    "mains": "deux"
+    "mains": "deux",
+    "mode": "edition"
   },
   "creeLe": 1795377310080,
-  "modifieLe": 1795377310080
+  "modifieLe": 1795380647489
 }
