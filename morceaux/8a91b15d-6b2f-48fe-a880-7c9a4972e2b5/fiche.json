@@ -1,0 +1,43 @@
+{
+  "id": "8a91b15d-6b2f-48fe-a880-7c9a4972e2b5",
+  "titre": "Goodbye Mr A",
+  "artiste": "d",
+  "quintes": 5,
+  "source": {
+    "nom": "goodbye-mr-a-the-hoosiers-goodbye-mr-a.mxl",
+    "type": "musicxml",
+    "empreinte": "06ca9acc8cfb483af25d134ac89536a48b1ef82b70a1796189eabac46c971928"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "chant",
+      "P3/1": "ignorer",
+      "P4/1": "droite",
+      "P4/2": "gauche",
+      "P5/1": "ignorer",
+      "P6/1": "ignorer",
+      "P7/1": "ignorer",
+      "P7/2": "ignorer",
+      "P8/1": "ignorer",
+      "P8/2": "ignorer",
+      "P9/1": "ignorer",
+      "P10/1": "ignorer",
+      "P11/1": "ignorer",
+      "P12/1": "ignorer",
+      "P13/1": "ignorer",
+      "P14/1": "ignorer",
+      "P15/1": "ignorer",
+      "P16/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377275674,
+  "modifieLe": 1795377275674
+}
