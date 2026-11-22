@@ -21,8 +21,9 @@
     "transposition": -2,
     "tempo": 100,
     "mains": "deux",
-    "mode": "edition"
+    "mode": "apprendre",
+    "difficulte": "intermediaire"
   },
   "creeLe": 1795377310080,
-  "modifieLe": 1795380647489
+  "modifieLe": 1795380929019
 }
