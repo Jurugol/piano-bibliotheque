@@ -1,0 +1,27 @@
+{
+  "id": "612eae1d-aa4b-4691-bc5f-954434c73222",
+  "titre": "Feeling Good",
+  "artiste": "Muse",
+  "quintes": -2,
+  "source": {
+    "nom": "feeling-good-muse-feeling-good-by-muse.mxl",
+    "type": "musicxml",
+    "empreinte": "83a7aa810ef1835351cc9b7d740078bbf3d0b979a0cee3a24da7a1af0450a3af"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377269396,
+  "modifieLe": 1795377269396
+}
