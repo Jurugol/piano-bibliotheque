@@ -21,7 +21,7 @@
     "transposition": -2,
     "tempo": 100,
     "mains": "deux",
-    "mode": "edition",
+    "mode": "apprendre",
     "difficulte": "intermediaire"
   },
   "creeLe": 1792983652987,
@@ -33,5 +33,5 @@
     }
   },
   "genre": "Rock alternatif",
-  "modifieLe": 1795377897371
+  "modifieLe": 1795378067446
 }
