@@ -26,5 +26,12 @@
   },
   "creeLe": 1795281307979,
   "genre": "Rock alternatif",
-  "modifieLe": 1795312847767
+  "entrainement": {
+    "1-8@intermediaire|tout|dechiffrer-jeu|deux": {
+      "meilleur": 0.875,
+      "essais": 1,
+      "meilleurScore": 3016
+    }
+  },
+  "modifieLe": 1795312864566
 }
