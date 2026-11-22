@@ -19,9 +19,11 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "deux"
+    "mains": "deux",
+    "mode": "apprendre",
+    "difficulte": "intermediaire"
   },
   "creeLe": 1795279787997,
   "genre": "Rock alternatif",
-  "modifieLe": 1795283306958
+  "modifieLe": 1795312722454
 }
