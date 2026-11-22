@@ -90,7 +90,7 @@
     "transposition": -3,
     "tempo": 100,
     "mains": "deux",
-    "mode": "edition",
+    "mode": "apprendre",
     "niveaux": {
       "droite": 2,
       "gauche": 4
@@ -101,5 +101,5 @@
   },
   "creeLe": 1792595861993,
   "genre": "Pop",
-  "modifieLe": 1795307640363
+  "modifieLe": 1795308618080
 }
