@@ -35,9 +35,9 @@
   "entrainement": {
     "1-10@intermediaire|tout|dechiffrer-jeu|deux": {
       "meilleur": 0.9375,
-      "essais": 3,
-      "meilleurScore": 7289
+      "essais": 4,
+      "meilleurScore": 7708
     }
   },
-  "modifieLe": 1795289798298
+  "modifieLe": 1795313027072
 }
