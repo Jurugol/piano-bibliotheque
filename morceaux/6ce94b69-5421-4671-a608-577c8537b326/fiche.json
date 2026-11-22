@@ -1,0 +1,26 @@
+{
+  "id": "6ce94b69-5421-4671-a608-577c8537b326",
+  "titre": "GATE OF STEINER",
+  "artiste": "",
+  "quintes": 0,
+  "source": {
+    "nom": "GATE OF STEINER.mid",
+    "type": "midi",
+    "empreinte": "8b580b051f5bf43930b02bc37a701119a2a303ab902e2dd1c66768ad37da72ce"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P2/1": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377229074,
+  "modifieLe": 1795377229074
+}
