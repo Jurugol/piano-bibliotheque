@@ -21,7 +21,7 @@
   "reglages": {
     "transposition": 0,
     "tempo": 100,
-    "mains": "gauche",
+    "mains": "deux",
     "mode": "apprendre",
     "difficulte": "intermediaire"
   },
@@ -77,5 +77,5 @@
   },
   "genre": "Pop",
   "version": "Piano duo",
-  "modifieLe": 1795283304981
+  "modifieLe": 1795312172554
 }
