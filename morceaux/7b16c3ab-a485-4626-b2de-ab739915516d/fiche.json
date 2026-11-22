@@ -1,0 +1,28 @@
+{
+  "id": "7b16c3ab-a485-4626-b2de-ab739915516d",
+  "titre": "No Suprises",
+  "artiste": "",
+  "quintes": -1,
+  "source": {
+    "nom": "no-surprises-radiohead-in-progress.mxl",
+    "type": "musicxml",
+    "empreinte": "30f4117bd4a7c383fbf2f9a07e2b6ed21472790bcd9b1626e670c2ab2d9ffee2"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "ignorer",
+      "P3/1": "droite",
+      "P3/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377304344,
+  "modifieLe": 1795377304344
+}
