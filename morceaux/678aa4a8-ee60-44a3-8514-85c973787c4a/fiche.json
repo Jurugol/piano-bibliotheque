@@ -27,9 +27,9 @@
   "genre": "Pop rock",
   "entrainement": {
     "1-8@intermediaire|tout|dechiffrer-jeu|deux": {
-      "meilleur": 0.95,
-      "essais": 1,
-      "meilleurScore": 4523
+      "meilleur": 0.975609756097561,
+      "essais": 2,
+      "meilleurScore": 6681
     },
     "9-16@intermediaire|tout|dechiffrer-jeu|deux": {
       "meilleur": 0.975,
@@ -81,5 +81,5 @@
       }
     }
   },
-  "modifieLe": 1795298072873
+  "modifieLe": 1795377367152
 }
