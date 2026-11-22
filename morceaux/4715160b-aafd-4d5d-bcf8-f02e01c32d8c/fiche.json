@@ -1,0 +1,26 @@
+{
+  "id": "4715160b-aafd-4d5d-bcf8-f02e01c32d8c",
+  "titre": "Untitled",
+  "artiste": "Simple Plan",
+  "quintes": 6,
+  "source": {
+    "nom": "untitled-simple-plan.mxl",
+    "type": "musicxml",
+    "empreinte": "6363f45bf081fe38b4f87042c2d9494fd8868b020032388cc01f6b45825dfd07"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377347843,
+  "modifieLe": 1795377347843
+}
