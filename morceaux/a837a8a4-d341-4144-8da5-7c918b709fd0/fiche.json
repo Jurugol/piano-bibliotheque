@@ -1,0 +1,29 @@
+{
+  "id": "a837a8a4-d341-4144-8da5-7c918b709fd0",
+  "titre": "Politik",
+  "artiste": "",
+  "quintes": 0,
+  "source": {
+    "nom": "politik.mxl",
+    "type": "musicxml",
+    "empreinte": "a6bcfd173ca60d480a1afa0dd907881c8f084558edd9bd6280b72d278a7c90c6"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "gauche",
+      "P2/1": "droite",
+      "P3/1": "ignorer",
+      "P4/1": "ignorer",
+      "P5/1": "ignorer"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377316171,
+  "modifieLe": 1795377316171
+}
