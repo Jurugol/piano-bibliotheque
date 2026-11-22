@@ -1,0 +1,27 @@
+{
+  "id": "d967adf7-3bf9-4c62-9068-6973e29265fd",
+  "titre": "Pieces",
+  "artiste": "Sum 41",
+  "quintes": -1,
+  "source": {
+    "nom": "sum-41-pieces-pianocello-cover.mxl",
+    "type": "musicxml",
+    "empreinte": "4a5c416a3d7ff22915cd1a05a5a025bb3971bd8279104158c08b91ab4d6861a5"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377329872,
+  "modifieLe": 1795377329872
+}
