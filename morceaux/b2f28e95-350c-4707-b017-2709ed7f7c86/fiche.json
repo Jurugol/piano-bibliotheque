@@ -1,0 +1,27 @@
+{
+  "id": "b2f28e95-350c-4707-b017-2709ed7f7c86",
+  "titre": "Untitled score",
+  "artiste": "Composer / arranger",
+  "quintes": 0,
+  "source": {
+    "nom": "theres-a-good-reason-these-tables-are-number-honey-you-just-havent-thought-of-it-yet-panic-at-the-disco-theres-a-good-reason.mxl",
+    "type": "musicxml",
+    "empreinte": "640fcac5a03699d9c1416ed503b9753dcd48925df4e4467ef17aa4c8ced5386b"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377337417,
+  "modifieLe": 1795377337417
+}
