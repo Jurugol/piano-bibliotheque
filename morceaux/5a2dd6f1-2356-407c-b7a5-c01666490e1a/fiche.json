@@ -1,0 +1,27 @@
+{
+  "id": "5a2dd6f1-2356-407c-b7a5-c01666490e1a",
+  "titre": "Speed of Sound",
+  "artiste": "Coldplay",
+  "quintes": 3,
+  "source": {
+    "nom": "speed-of-sound.mxl",
+    "type": "musicxml",
+    "empreinte": "a0569b64848afd16e077a166e0dac3c1893b457c56d5add47134cc89711cfb93"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377322180,
+  "modifieLe": 1795377322180
+}
