@@ -1,0 +1,27 @@
+{
+  "id": "1dbc9fde-2677-488d-bb20-9755fc70169f",
+  "titre": "Christmas Lights",
+  "artiste": "Guy Berryman;Jonathan Buckland;William Champion;Chris Martin",
+  "quintes": 1,
+  "source": {
+    "nom": "christmas-lights-coldplay.mxl",
+    "type": "musicxml",
+    "empreinte": "a5ea1b4f2ecdd8fd1babd5ec2a8874d3060d7ec51ed40037979c8274d5a46621"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P3/1": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377252401,
+  "modifieLe": 1795377252401
+}
