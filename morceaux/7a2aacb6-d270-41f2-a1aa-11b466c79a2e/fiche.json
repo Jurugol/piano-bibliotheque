@@ -1,0 +1,27 @@
+{
+  "id": "7a2aacb6-d270-41f2-a1aa-11b466c79a2e",
+  "titre": "Emperor's New Clothes",
+  "artiste": "Panic! At The Disco",
+  "quintes": 6,
+  "source": {
+    "nom": "emperors-new-clothes.mxl",
+    "type": "musicxml",
+    "empreinte": "a2ec86e9cfb8f10bf713a35880f834bd24bfdc48f5728811efc8eb66bf73bdb1"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377261794,
+  "modifieLe": 1795377261794
+}
