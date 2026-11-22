@@ -87,7 +87,7 @@
   ],
   "doigtes": {},
   "reglages": {
-    "transposition": -1,
+    "transposition": -3,
     "tempo": 100,
     "mains": "deux",
     "mode": "edition",
@@ -101,5 +101,5 @@
   },
   "creeLe": 1792595861993,
   "genre": "Pop",
-  "modifieLe": 1795307586237
+  "modifieLe": 1795307640363
 }
