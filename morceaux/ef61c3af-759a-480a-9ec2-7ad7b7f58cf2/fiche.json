@@ -1,0 +1,26 @@
+{
+  "id": "ef61c3af-759a-480a-9ec2-7ad7b7f58cf2",
+  "titre": "But It's Better If You Do",
+  "artiste": "Panic At the Disco",
+  "quintes": 0,
+  "source": {
+    "nom": "but-it-s-better-if-you-do-panic-at-the-disco.mxl",
+    "type": "musicxml",
+    "empreinte": "18c90435fa84a1d64bd9460da9c74b3307b886aa9032b1b3f4a738e6598f41ab"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377248412,
+  "modifieLe": 1795377248412
+}
