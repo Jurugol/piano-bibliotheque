@@ -1,0 +1,26 @@
+{
+  "id": "680dfab0-66fe-46e7-9a42-2d64aee05e4b",
+  "titre": "Knights of Cydonia",
+  "artiste": "Muse",
+  "quintes": 1,
+  "source": {
+    "nom": "knights-of-cydonia-piano-hero-edition-muse.mxl",
+    "type": "musicxml",
+    "empreinte": "b7c989d815d9e6acd5e8629c38679e9eea9c84b1e04d7e06ce87ee07c35854ed"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377290808,
+  "modifieLe": 1795377290808
+}
