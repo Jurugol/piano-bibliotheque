@@ -18,7 +18,7 @@
   "sections": [],
   "doigtes": {},
   "reglages": {
-    "transposition": 0,
+    "transposition": -2,
     "tempo": 100,
     "mains": "deux",
     "mode": "edition",
@@ -33,5 +33,5 @@
     }
   },
   "genre": "Rock alternatif",
-  "modifieLe": 1795283305565
+  "modifieLe": 1795377897371
 }
