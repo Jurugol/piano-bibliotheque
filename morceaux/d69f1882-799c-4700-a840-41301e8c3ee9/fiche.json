@@ -1,0 +1,27 @@
+{
+  "id": "d69f1882-799c-4700-a840-41301e8c3ee9",
+  "titre": "Bohemian Rhapsody",
+  "artiste": "Freddie Mercury",
+  "quintes": -2,
+  "source": {
+    "nom": "bohemian-rhapsody-piano-y-violin.mxl",
+    "type": "musicxml",
+    "empreinte": "03ea28bb854a1b6ef22a0ce5fa2cfab0151d9924934cc112141f8091d92f3169"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "ignorer",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377244275,
+  "modifieLe": 1795377244275
+}
