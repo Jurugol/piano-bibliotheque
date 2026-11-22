@@ -1,0 +1,26 @@
+{
+  "id": "2bdfb28e-06e1-4c0d-a6a4-a3a04ff49a8d",
+  "titre": "Never There",
+  "artiste": "Sum 41",
+  "quintes": 2,
+  "source": {
+    "nom": "never-there-sum-41.mxl",
+    "type": "musicxml",
+    "empreinte": "8004878778831e44d2ae4955cfdf24248faf978b8293cf94560fa59254a24700"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "droite",
+      "P1/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377298670,
+  "modifieLe": 1795377298670
+}
