@@ -1,0 +1,27 @@
+{
+  "id": "925b8409-c9db-41d8-8527-cf7d63db6a73",
+  "titre": "Mr Brightside",
+  "artiste": "The Killers",
+  "quintes": -5,
+  "source": {
+    "nom": "mr-brightside-the-killers.mxl",
+    "type": "musicxml",
+    "empreinte": "2712677b7f8778e2bff75d203cd58b1307238d317263a531298c69d57b75577f"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377296366,
+  "modifieLe": 1795377296366
+}
