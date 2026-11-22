@@ -25,5 +25,12 @@
     "difficulte": "intermediaire"
   },
   "creeLe": 1795377310080,
-  "modifieLe": 1795380929019
+  "entrainement": {
+    "65-72@intermediaire|tout|dechiffrer-jeu|deux": {
+      "meilleur": 0.4666666666666667,
+      "essais": 1,
+      "meilleurScore": 761
+    }
+  },
+  "modifieLe": 1795381229024
 }
