@@ -1,0 +1,27 @@
+{
+  "id": "9a149564-ddd4-454c-a652-4e3ce058bed3",
+  "titre": "This Love",
+  "artiste": "Adam Levine;Jesse Carmichael",
+  "quintes": -3,
+  "source": {
+    "nom": "this-love-adam-levine.mxl",
+    "type": "musicxml",
+    "empreinte": "ee986ce62a08ef3c70a7d240a6a82401d34475ef178bd60a8fa4001de3817d22"
+  },
+  "affectation": {
+    "roles": {
+      "P1/1": "chant",
+      "P2/1": "droite",
+      "P2/2": "gauche"
+    }
+  },
+  "sections": [],
+  "doigtes": {},
+  "reglages": {
+    "transposition": 0,
+    "tempo": 100,
+    "mains": "deux"
+  },
+  "creeLe": 1795377343534,
+  "modifieLe": 1795377343534
+}
