@@ -19,12 +19,12 @@
   "sections": [],
   "doigtes": {},
   "reglages": {
-    "transposition": 0,
+    "transposition": -2,
     "tempo": 100,
     "mains": "deux",
-    "mode": "apprendre",
+    "mode": "edition",
     "difficulte": "intermediaire"
   },
   "creeLe": 1795283310687,
-  "modifieLe": 1795313181170
+  "modifieLe": 1795313201113
 }
